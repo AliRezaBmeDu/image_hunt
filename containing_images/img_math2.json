@@ -1,0 +1,2432 @@
+{
+  "subject": "M-2",
+  "count": 35,
+  "questions": [
+    {
+      "pk": 195750,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-14/1a87d81c-7054-4a1d-912f-bddfd27f2139-IMG-20221115-000443-027.jpg\" style=\"width: 242px;\"/>একটি হেলানো সমতলের দৈর্ঘ্য ও ভূমির সমান্তরাল ক্রিয়াশীল বল যথাক্রমে 4N ও 5N। বলদ্বয় প্রত্যেকে একক ভাবে W ওজনের কোন বস্তুকে তলের উপর স্থির রাখতে পারে। W=?</strong></span></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-01/0f3af8ec-12a4-4d1c-8858-de8f9a730735-image.png\"/></p><p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-01/b66aaada-95a0-4504-b81a-29065591e75f-image.png\" style=\"width: 144px;\"/><br/></p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 40968,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3597,
+          "tag": "সাম্যাবস্থায় ত্রিভুজ সূত্র ও লামির সূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 195845,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-12/7b68f075-94ab-4fcc-96b6-172d098b4f91-image.png\" style=\"width: 159px;\"/></span></strong><br/></p><p><strong><strong><span style=\"font-size: 18px;\">চিত্রে সমান দৈর্ঘ্যের  দুটি রশি AB, AC দ্বারা 5 kg ওজনের কাঠের ফ্রেমটি ঝুলানো হলে প্রতিটি রশির টান T=?</span></strong></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p> <span class=\"mathy\">5/sqrt2</span>  kg-wt</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>5√2 kg-wt</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">sqrt2/5</span>  kg-wt</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">5/2 </span> kg-wt</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-12/ff629dee-c749-4d7a-b622-2b9dc849a747-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 41063,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3496,
+          "tag": "বিভিন্ন অবস্থানে বলের ক্রিয়া"
+        }
+      ]
+    },
+    {
+      "pk": 195846,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-12/b8c60503-eea3-458e-8207-d9548269368f-image.png\" style=\"width: 139px;\"/></span></strong></p><p><strong><strong><span style=\"font-size: 18px;\">চিত্রে AB তক্তার ওজন 100 kg ও দৈর্ঘ্য 5 মিটার। BC=2 মিটার হলে এবং তক্তা না উল্টিয়ে বালকটি  B প্রান্তে পৌঁছালে বালকের ওজন কত? </span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>50 kg</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>25 kg</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>15 kg</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-12/ad8314c8-d2cf-4dfd-bb06-aaf07e2e64b1-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 41064,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3429,
+          "tag": "খুটি ও লোক সম্পর্কিত"
+        }
+      ]
+    },
+    {
+      "pk": 195710,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-05-14/7c47d159-4a2b-47f6-b360-d6b667e71c15-image.png\" style=\"width: 134px;\"/></span></strong></p><p><strong><span style=\"font-size: 18px;\">প্রতিটি 5kg ওজনের দুটি দোলনা, একটি চেইনের মাধ্যমে সংযুক্ত করা হয়েছে এবং তারপরে প্রতিটি দোলনা একেকটি চেইনের সাহায্যে উলম্ব খুঁটিতে আটকানো আছে। দুইজন বালক দোলনা দুটিতে বসে আছে এবং সম্পূর্ণ সিস্টেমটি সাম্যাবস্থায় আছে। চেইনগুলি চিত্রে দেখানো মত কোণ তৈরি করলে, এবং প্রথম বালকটির ওজন 40kg হলে, দ্বিতীয় বালকটির ওজন নির্ণয় কর। </span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "Done"
+        },
+        {
+          "answer": false,
+          "option": "Skip"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-01/f38ae618-f65b-4077-86c7-a101d108eb97-image.png\"/></p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 47385,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3597,
+          "tag": "সাম্যাবস্থায় ত্রিভুজ সূত্র ও লামির সূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198670,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Two particles A and B have masses 5 m and km respectively, where k &lt; 5. The particles are connected by <span style=\"background-color: initial;\">a light inextensible string which passes over a smooth light fixed pulley. The system is held at rest with the string taut, the hanging parts of the string vertical and with A and B at the same height above a horizontal plane, as shown in the following figure. The system is released from rest. After release, A descends with </span><span style=\"background-color: initial;\">celeration (1/4)g Find the tension in the string as A descends.</span></span></strong></p><p><strong><span style=\"font-size: 18px;\"><span style=\"background-color: initial;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/24269dab-fba8-43cc-b33c-b9cb51b18cd7-image.png\" style=\"width: 219px;\"/></span></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>(17/4)mg</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>(15/4)mg</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(19/15)mg</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(4/15)mg</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/2fe32c56-aa06-495b-98dd-8a759821f793-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47548,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3369,
+          "tag": "সুষম ত্বরণের গতিসুত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198683,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"background-color: initial;\">A hanging body weighing 12 kg is kept in a position by applying two forces P and Q on it. P is acting horizontally while Q is acting by making an angle of 45° with the horizontal. The magnitude of the Q is-</span></span></strong></p><p><strong><span style=\"font-size: 18px;\"><span style=\"background-color: initial;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/c692aa97-34c1-498e-9a0d-d3ef331a3084-image.png\" style=\"width: 278px;\"/></span></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>12/√3 kg - wt</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> 12√3 kg-wt</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>6√3 kg-wt</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p> 12√2 kg-wt</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/fc248739-c631-496e-90c9-9ce9d2318c99-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47561,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3496,
+          "tag": "বিভিন্ন অবস্থানে বলের ক্রিয়া"
+        }
+      ]
+    },
+    {
+      "pk": 198692,
+      "question": "<p><strong><span style=\"font-size: 18px;\">The following figure represents a Venn diagram that shows the number of students in a class who read any <span style=\"background-color: initial;\">of 3 popular magazines A, B and C. One of these students is selected at random. Find the probability t</span><span style=\"background-color: initial;\">he student reads more than one magazine.</span></span></strong></p><p><strong><span style=\"font-size: 18px;\"><span style=\"background-color: initial;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/4686d133-a5d8-4273-bc32-182dd579adb1-image.png\" style=\"width: 309px;\"/></span></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>1/7</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">1/9.5</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>1/6</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1/20</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/276207f1-c2d3-41aa-9137-7957d8807a08-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47570,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1072,
+          "tag": "M-2.10"
+        },
+        {
+          "type": "topic",
+          "value": 3386,
+          "tag": "বিবিধ"
+        }
+      ]
+    },
+    {
+      "pk": 177996,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>-x<sup>2</sup>+5x-4≤0 অসমতাটির সমাধান সংখ্যারেখায় কত?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-08%2Fa6b2c1d7-12f6-48fb-9f1f-c0ebfcd766d4-IMG20210608111716.jpg\" style=\"width: 107px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-08%2F39e90003-d91e-488a-801f-34d90e1f9c00-IMG20210608111653.jpg\" style=\"width: 108px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-08%2F4642a01c-562f-43e9-a77e-6e2fcbb18353-IMG20210608111624.jpg\" style=\"width: 113px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-08%2F1fd8a05e-c0b8-441b-a754-7fbf7ee2c643-IMG20210608111539.jpg\" style=\"width: 113px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-09%2Ffb3896b3-b750-4879-9fbf-26f354edbdc1-image.png\" style=\"width: 500px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 64266,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 61,
+          "tag": "BSMRSTU"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 54,
+          "tag": "Unit-I"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1071,
+          "tag": "M-2.1"
+        },
+        {
+          "type": "topic",
+          "value": 3357,
+          "tag": "অসমতা"
+        }
+      ]
+    },
+    {
+      "pk": 180994,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>(-x)/0.5 + 2 ≤ 0 এর সঠিক মান কোনটি?</strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-02/abd301e7-823d-4559-9a87-555164453c30-IMG-20211003-030626-288.jpg\" style=\"width: 209px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-02/52beadf5-53bd-4d1d-83dd-1d2b56add3a9-IMG-20211003-030627-835.jpg\" style=\"width: 227px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-02/a023bea7-a9ff-426f-9354-3cdcc1a37b64-IMG-20211003-030629-443.jpg\" style=\"width: 223px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-02/262ada5f-8d9a-40fc-9f1b-68da7450a65a-IMG-20211003-030630-743.jpg\" style=\"width: 206px;\"/></p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 65265,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 70,
+          "tag": "KU"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1071,
+          "tag": "M-2.1"
+        },
+        {
+          "type": "topic",
+          "value": 3357,
+          "tag": "অসমতা"
+        }
+      ]
+    },
+    {
+      "pk": 195607,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>রাস্তার উপর B বিন্দুটি A বিন্দুর সাপেক্ষে অনুভূমিক বরাবর 800m দূরে এবং 50m উচ্চতায় অবস্থিত। 9000N ওজনবিশিষ্ট একটি গাড়ীকে রাস্তা বরাবর 700N বল প্রয়ােগ করে স্থিতাবস্থা থেকে চালু করে A থেকে B বিন্দুতে নিয়ে যেতে কত সময় লাগবে?</strong></span></p><p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-08-28/ca23f927-0d89-4188-a603-26567be2c253-IMG-20210828-183417.jpg\" style=\"width: 332px;\"/></strong></span><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-08-30/625ad3d4-c807-4503-9ede-d062505a82e5-image.png\"/></p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 66593,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3369,
+          "tag": "সুষম ত্বরণের গতিসুত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198495,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A balance is formed at the point C due to actions of T₁, T₂ and W= 10kg weight. Tension T₁=?<img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/729007a1-82cc-45e6-850c-5edef6a1bbfa-image.png\" style=\"width: 173px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>6 kg</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>4 kg</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>8 kg</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>10 kg</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/a4aa102f-fcd4-4ca9-a50e-a56036f768c0-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66695,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3597,
+          "tag": "সাম্যাবস্থায় ত্রিভুজ সূত্র ও লামির সূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198498,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"background-color: initial; font-size: 1rem;\"> <img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/4fc85ac4-d0a2-465e-b672-6c8f9047a4d9-image.png\" style=\"width: 224px;\"/>In the following figure, the curve C has the parametric equations-</span><span style=\"background-color: initial; font-size: 1rem;\">x=4cos (t+π/6),y=2sint, 0≤t≤2π.Find x+y</span></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>1√3 sint</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>2√3cost</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2√3sint</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1√3 cost</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/e54c41be-5fa9-43cb-94aa-581d5431d3b5-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66698,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1060,
+          "tag": "M-2.6"
+        },
+        {
+          "type": "topic",
+          "value": 3590,
+          "tag": "পরাবৃত্ত - প্রয়োজনীয় সুত্রাবলী"
+        }
+      ]
+    },
+    {
+      "pk": 198501,
+      "question": "<p><strong><span style=\"font-size: 18px;\">In figure OABC is a rhombus </span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/b160c0e7-f88a-44d5-8603-df71482772fb-image.png\" style=\"width: 170px;\"/></span></strong></strong><br/></p><p><strong><strong><strong><span style=\"font-size: 18px;\">What is the value of F?</span></strong></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<div class=\"mathy\">(10sqrt10)/sqrt3</div>"
+        },
+        {
+          "answer": false,
+          "option": "<div class=\"mathy\">(10sqrt30)/sqrt(10)</div>"
+        },
+        {
+          "answer": true,
+          "option": "<div class=\"mathy\">(10sqrt10)/sqrt30</div>"
+        },
+        {
+          "answer": false,
+          "option": "<div class=\"mathy\">(10sqrt3)/sqrt10</div>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/bba4cf02-326f-4775-b749-192578bd3304-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66701,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3395,
+          "tag": "দুই বলের লব্ধি"
+        }
+      ]
+    },
+    {
+      "pk": 198502,
+      "question": "<p><strong><span style=\"font-size: 18px;\">What is the initial velocity of the projectile body?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/93e19a2b-65d4-4a27-899f-f16a8440c8cf-image.png\" style=\"width: 263px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>36 ms<sup>-1</sup></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>20 ms<sup>-1</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>18 ms<sup>-1</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>10 ms<sup>-1</sup></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/3233d708-8f1d-4eea-bad4-32d068b1c366-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66702,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3366,
+          "tag": "প্রাস"
+        }
+      ]
+    },
+    {
+      "pk": 198510,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A ball is thrown from a point O, which is 6m above horizontal ground. The ball is projectd with speed u ms<sup>-1 </sup>at an angle θ above the horizontal. There is a thin vertical post which is 4m high and 8m horizontally away from the vertical through O, as shown in following figure. The ball passes just above the top of the post 2s after projection. Find the value of tanθ.</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/957c96d7-c26b-4dd3-8cc0-9511852a4147-image.png\" style=\"width: 221px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>0.8</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>12.2</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>4.6</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>2.2</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/18ce6ab7-cc22-4fc8-ba18-9b44e6ba8473-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66710,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3366,
+          "tag": "প্রাস"
+        }
+      ]
+    },
+    {
+      "pk": 177599,
+      "question": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-13/7d88b801-cda8-4ef6-888c-f518c68d030c-image.png\" style=\"width: 217px;\"/></p><p style=\"text-align: left;\"><span style=\"font-size: 18px;\"><strong>A=cos<sup>-1</sup>[3/5] হলে B এর ক্ষেত্রে নিচের কোনটি সঠিক?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">cos^-1[5/3]</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">tan^-1[4/3]</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">sec^-1[5/3]</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p class=\"mathy\">tan^-1[3/4]</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-13/b7c71fd6-934b-4bef-9038-77c10287e057-image.png\"/></p><p><br/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 75000,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 61,
+          "tag": "BSMRSTU"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1062,
+          "tag": "M-2.7"
+        },
+        {
+          "type": "topic",
+          "value": 3433,
+          "tag": "\"ত্রিকোনোমিতিক ও বিপরীত বৃত্তীয় ফাংশনের  সংযোজিত ফাংশন\""
+        }
+      ]
+    },
+    {
+      "pk": 198402,
+      "question": "<p><strong><span style=\"font-size: 18px;\">From the figure below, &nbsp;equation of the parabola is --&nbsp;</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img src=\"https://testmozusercontent.com/ugc/2023-11-17/02a706f6-aa06-4899-b032-ca3acb2170da-image.png\" class=\"fr-fic fr-fil fr-dib\"></span></strong><br></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>y<sup>2</sup> =4(x - 1)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>y<sup>2</sup> = 6(x - 2)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>y<sup>2</sup> = 4(x - 3)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>y<sup>2</sup> = 12(x - 1)</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/b312b88a-61ac-4eea-8035-0879cc161d1c-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77147,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1060,
+          "tag": "M-2.6"
+        },
+        {
+          "type": "topic",
+          "value": 3435,
+          "tag": "বিভিন্ন প্যারামিটার থেকে সমীকরণ নির্ণয়"
+        }
+      ]
+    },
+    {
+      "pk": 198417,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A rod AB of length 15 cm rests in between to coordinate axis in such a way that the end point a lies on x-axis and end point B lies on y-axis A point P(x,y) is taken on the rod in such a way that AP = 6cm if the rod moves with its end always touching the coordinate axis find the equation of the locus of the point P </span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/3b633503-0e03-4867-8e6c-fd5f0c3a76f3-image.png\" style=\"width: 169px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>x²/81 + y²/36 = 1</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>x²/36 + y²/81 = 1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x²/36 + y²/9 = 1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x²/9 + y²/36 = 1</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/0fec3b68-212b-481c-9769-35da833b8fdc-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77162,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1060,
+          "tag": "M-2.6"
+        },
+        {
+          "type": "topic",
+          "value": 3468,
+          "tag": "উপবৃত্ত - সমীকরণ, লেখচিত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198421,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A small wall from electrode device at O is ejected in such a way that he is past is through small aperture at A and strikes the contact point at B as shown in the figure below.the coordinates of A and B are (2,2) and (3,1) respectively if the player controls the angel θ and velocity v, then the value of θ that gives him a success is:-</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/6f4cd6c1-f883-404a-9479-4971dfe5c57b-image.png\" style=\"width: 193px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>29.7°</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>66.8°</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>23.2°</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>74.1°</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/882ccd90-18ef-42ba-8973-164a5651ccdf-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77166,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3366,
+          "tag": "প্রাস"
+        }
+      ]
+    },
+    {
+      "pk": 198422,
+      "question": "<p><strong><span style=\"font-size: 18px;\">In the figure below what is the value of b?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/9aa1458c-42b0-4d59-b754-df08e8258db0-image.png\" style=\"width: 186px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>9</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>18</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>27</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>36</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/1bd72763-13c9-4597-9e5e-e31b1f4f3b1c-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77167,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1073,
+          "tag": "M-2.11"
+        },
+        {
+          "type": "topic",
+          "value": 3709,
+          "tag": "অন্য বিষয়ের প্রশ্ন"
+        }
+      ]
+    },
+    {
+      "pk": 198326,
+      "question": "<p><strong><span style=\"font-size: 18px;\">The ship shown in the following figure is moving at a constant velocity by a tugboat applying a force F1=50kN. Determine the force in each of BC &amp; BD assuming θ<sub>1</sub>=20° &amp; θ<sub>2</sub>=30°</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/80bbfc56-423b-4151-9d32-a93a0b271e57-image.png\" style=\"width: 218px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>25.25 &amp; 12.54kN</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>25.32 &amp; 32.64kN</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>62.32 &amp; 82.64kN</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>102.35 &amp; 32.64kN</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/da4c84e6-f69d-4e91-8936-3f6e1f94451f-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87358,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3445,
+          "tag": "নদী , নৌকা , স্রোত সম্পর্কিত"
+        }
+      ]
+    },
+    {
+      "pk": 198328,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Long range navigation (LORAN) is a radio navigation system developed during world war II the system unable app pilot to guide aircraft by maintaining a constant difference between the aircrafts distances from two fixed points the master station and the slave station right and equation of hyperbola depicted in the following figure.</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/646c0f09-3646-42e0-92ce-8055ba053d84-image.png\" style=\"width: 182px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>x²/3600 - 13y²/19600 = 1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x²/19600 - y²/3600 = 1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x²/14400 - y²/19600 = 1</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>x²/14400 - 13y²/129600 = 1</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/def57609-c9f5-468f-983e-8c13fbf5cfd3-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87360,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1060,
+          "tag": "M-2.6"
+        },
+        {
+          "type": "topic",
+          "value": 3476,
+          "tag": "অধিবৃত্ত - সমীকরণ, লেখচিত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198330,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A resultant force F equal to 350 lb is necessary to hold the balloon in place assume that θ1 = 30° and θ2 = 40° the force is applied along the lines AB and AC as shown in the following figure the magnitude of forces along the lines AB and AC are?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/61a27906-48f6-4949-ab4f-fdf3f3363ef5-image.png\" style=\"width: 97px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>186 lb and 239 lb</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>76 lb and 239 lb</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>268 lb and 322 lb</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>268 lb and 322 lb</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/effb30c7-f1ca-4128-85d2-8a70fac6035a-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87362,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3496,
+          "tag": "বিভিন্ন অবস্থানে বলের ক্রিয়া"
+        }
+      ]
+    },
+    {
+      "pk": 198331,
+      "question": "<p><strong><span style=\"font-size: 18px;\">The boat shown is following figure is to be pulled on to the show using two ropes.if the resulent force is to be F1 = 80lb directed along the line aa, determine the magnitudes of the force P so that the magnitude of P is minimum.T acts at an angle θ1 = 30° from the line aa the force P will be minimum for a certain angle between P and T</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/c3cd8b54-2e8b-4d43-9dd7-2bd98006a4e5-image.png\" style=\"width: 206px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>40 lb</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>56.56 lb</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>69.3 lb</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>77.27 lb</p>"
+        }
+      ],
+      "explanation": "<p>Ans: A</p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87363,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3395,
+          "tag": "দুই বলের লব্ধি"
+        }
+      ]
+    },
+    {
+      "pk": 198332,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A 2.4 m long 60 kg uniform table top is supported by a pivot 80 cm form the left end and by a scale at the right end as shown in the following figure how far from the left end should a 40kg child sit if the scale is to read zero?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/0f93b870-d8f6-43e8-bb62-483f5d06b01e-image.png\" style=\"width: 212px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>70 cm</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>60 cm</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>20 cm</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>10 cm</p>"
+        }
+      ],
+      "explanation": "<p>(80-x) 40 =60 x 40=20cm </p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87364,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3547,
+          "tag": "সদৃশ ও অসদৃশ বলের লব্ধির মান, দিক ও ক্রিয়া বিন্দু"
+        }
+      ]
+    },
+    {
+      "pk": 198333,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A In a suspension bridge the shape of the suspension cables is parabolic. The bridge shown in the following figure has tower that are 600m apart, and the lowest  point of the suspension cables is 150m below the top of the tower, find the equation of the parabolic part of the cables, placing the origin of the coordinate system at the vertex (that is the lowest point of the cables) <br/></span></strong></p><p><strong><span style=\"font-size: 18px;\"><span style=\"background-color: initial; font-size: 1rem;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/d47810bf-be21-4281-8b68-64e0f2e844cf-image.png\" style=\"width: 205px;\"/></span></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>x<sup>2</sup>=600y</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x<sup>2</sup>=300y</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x<sup>2</sup>=150y</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>y<sup>2</sup>=300x</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/f363b42d-2fd5-429a-bdb7-e398ecbac605-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87365,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1060,
+          "tag": "M-2.6"
+        },
+        {
+          "type": "topic",
+          "value": 3435,
+          "tag": "বিভিন্ন প্যারামিটার থেকে সমীকরণ নির্ণয়"
+        }
+      ]
+    },
+    {
+      "pk": 198334,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Despite Measurement of a shot recorded on a videotape during a basketball game are shown in the following figure. The ball passed through the hoop even it barely cleared the hands of the player B who attempt to block it. Neglecting the size of ball when it passes over player B.<br/></span></strong></p><p><span style=\"font-size: 18px;\"><span style=\"background-color: initial; font-size: 1rem;\"><strong><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/ab939f62-1e81-4d55-b535-a5bafa3f50ba-image.png\" style=\"width: 209px;\"/></strong></span></span><strong><span style=\"font-size: 18px;\"><span style=\"background-color: initial; font-size: 1rem;\"><br/></span></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>7.40m</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>4.72m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>11.48m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>9.40m</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/1dbd2fa4-58b8-422c-9374-0ea31372ab89-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87366,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3366,
+          "tag": "প্রাস"
+        }
+      ]
+    },
+    {
+      "pk": 198335,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Car A starts from rest at t=0 and travels along a straight road with a constant acceleration of 6ms<sup>-2</sup> until it reaches a speed of 80m/s. Afterwards it maintains this speed. In contrast, at t=0, car B located 600m down the road is traveling towards A at a constant speed of 60 m/s. Find the distance traveled by car A when they pass each other.</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/23f3d864-414a-427b-a4dd-38824c498d06-image.png\" style=\"width: 370px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>2400m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>3400m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2800m</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>3200m</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/30df40d2-2a45-4cbc-8408-eb73f89bd932-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87367,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1093,
+          "tag": "M-2.9"
+        },
+        {
+          "type": "topic",
+          "value": 3369,
+          "tag": "সুষম ত্বরণের গতিসুত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198226,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A hyperbolic mirror is used in some telescopes. Such a mirror has the property that light ray directed at one focus will be reflected to th eother focus as shown in the figure will below. Which of the following equations models the hyperbolic mirror's surface ? <img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-07/bf7a954f-32d5-453e-bffa-9ad90e4457de-image.png\" style=\"width: 229px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p class=\"mathy\">x^2/9-(7y^2)/144=25</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">x^2/15-(7y^2)/20=1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">x^2/9-(7y^2)/144=1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib fr-uploading\" src=\"blob:https://testmoz.com/60836205-81bc-42b1-b1a4-6ad8b5cf8af2\"/><br/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 95745,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1060,
+          "tag": "M-2.6"
+        },
+        {
+          "type": "topic",
+          "value": 3476,
+          "tag": "অধিবৃত্ত - সমীকরণ, লেখচিত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198230,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-07/5b44b5c1-669f-4c27-a5cb-6e3fbf67b143-image.png\" style=\"width: 218px;\"/>The post given in the figure below is to be pulled out of the ground using two ropes A and B. Rope A is subjected to force F<sub>1</sub>=600lb and is directed at angle θ<sub>1</sub>=60 from the horizontal. If the resultant force acting on the post is to be Fr=1200lb , vertically upward, determine the force T in rope B. </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>794.59 lb </p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>743.59 lb </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>692.82 lb </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>843.60 lb </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-17/369c11c7-ecc4-4a5a-82ac-3b3714308371-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 95749,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3597,
+          "tag": "সাম্যাবস্থায় ত্রিভুজ সূত্র ও লামির সূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198232,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-07/fe00dbbe-196c-4e5e-9f39-3c7c3348ac32-image.png\" style=\"width: 282px;\"/>A sphere with weight W(1020)N rests in an angled structure one leg of which is at an angle of 30 with the horizontal as shown in the figure given below. Assuming all surfaces smooth , compute the reaction on the sphere at point B. </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>510 N </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>721.25N</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>883.35N </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-17/8b7ef17b-00c5-4bc6-be19-a5be897469da-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 95751,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3496,
+          "tag": "বিভিন্ন অবস্থানে বলের ক্রিয়া"
+        }
+      ]
+    },
+    {
+      "pk": 198131,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A cross-section of a parabolic reflector is shown in the figure below. The light source at the focus of the parabola and the opening of the focus is 10 cm. The equation of the parabola is -- </span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/e6c4a6c8-bb5f-4676-8119-5130d2455001-image.png\" style=\"width: 127px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>y<sup>2</sup> = 22x</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>y<sup>2</sup> = 5x</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>y<sup>2 </sup>=10x</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>y<sup>2</sup> = 17x</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/da48b38f-782f-477f-b514-0cb2b0ba11f3-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 102445,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1060,
+          "tag": "M-2.6"
+        },
+        {
+          "type": "topic",
+          "value": 3435,
+          "tag": "বিভিন্ন প্যারামিটার থেকে সমীকরণ নির্ণয়"
+        }
+      ]
+    },
+    {
+      "pk": 198143,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A mother would like to balance her son on the teetor totter as shown in the figure give below . Calculate the distance d so that the system is in equilibrium.</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/8a48bf30-9148-4d22-95ea-08f5b70d4230-image.png\" style=\"width: 186px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>0.7 ft</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1.2 ft</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1.9 ft</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>1.4 ft</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/fd5eb71a-3a60-429f-af77-c80b513a1782-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 102457,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1067,
+          "tag": "M-2.8"
+        },
+        {
+          "type": "topic",
+          "value": 3547,
+          "tag": "সদৃশ ও অসদৃশ বলের লব্ধির মান, দিক ও ক্রিয়া বিন্দু"
+        }
+      ]
+    },
+    {
+      "pk": 221225,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-25/a7449378-a2c9-411d-8921-691d861a631b-D6EB95BB-A131-49A2-8D6D-6B3E60862DC6.jpeg\"/>Question</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>6</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>24</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>36</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>42</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-07-03/ef6a1921-25e7-4be3-bd53-45d09643ac7d-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 110243,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 150,
+          "tag": "2013"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 32,
+          "tag": "Set-5"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1073,
+          "tag": "M-2.11"
+        },
+        {
+          "type": "topic",
+          "value": 3361,
+          "tag": "পুরাতন সিলেবাস"
+        }
+      ]
+    },
+    {
+      "pk": 304344,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিচের কোন চিহ্নটি সিদ্ধান্ত নেওয়ার নির্দেশের জন্য প্রবাহ চিত্র ব্যবহৃত হয়? </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">square</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-09-17/2570bb81-fccc-4749-95a3-9dac4fafbbbf-AAP-6.png\" style=\"width: 50px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p class=\"mathy\">diamond</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">circ</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-09-24/a250ecc5-dc66-4cb9-8d72-ebbc91e24974-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 110620,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 150,
+          "tag": "2013"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 28,
+          "tag": "Set-2"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 130,
+          "tag": "M-2"
+        },
+        {
+          "type": "chapter",
+          "value": 1113,
+          "tag": "M-2.2"
+        },
+        {
+          "type": "topic",
+          "value": 3421,
+          "tag": "যোগাশ্রয়ী প্রোগ্রাম"
+        }
+      ]
+    }
+  ]
+}

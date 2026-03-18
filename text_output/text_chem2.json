@@ -1,0 +1,1254 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "title": "পরিবেশ রসায়ন",
+      "accessibility": "regular",
+      "cards": [
+        {
+          "id": 1,
+          "question": "IUPAC অনুসারে নিচের যৌগটির নাম কী?[img source: images/chemistry2/question_325795.png]",
+          "answer": "3-মিথাইল সাইক্লোহেক্সিন",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 2,
+          "question": "কোন লেখচিত্রটি স্থির চাপে চার্লসের সূত্রের সাথে সংগতিপূর্ণ?",
+          "answer": "[img source: images/chemistry2/option_true_145362_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "DU",
+          "year": "2014"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "জৈব যৌগ",
+      "accessibility": "regular",
+      "cards": [
+        {
+          "id": 1,
+          "question": "[img source: images/chemistry2/question_459192.png] যৌগটির IUPAC নাম কোনটি?",
+          "answer": "3-হাইড্রক্সি-2-মিথাইল বিউটান্যাল",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2023"
+        },
+        {
+          "id": 2,
+          "question": "নিচের কোনটি অ্যারোমেটিক যৌগ নয়?",
+          "answer": "[img source: images/chemistry2/option_true_459204_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2023"
+        },
+        {
+          "id": 3,
+          "question": "নিচের কোন যোগটি গ্লাইসিন?",
+          "answer": "$CH_{2}$($NH_{2}$)-COOH",
+          "tag": "math",
+          "history": [],
+          "university": "CU",
+          "year": "2022"
+        },
+        {
+          "id": 4,
+          "question": "[img source: images/chemistry2/question_325174.png]A ও B যৌগদ্বয় হলোঃ",
+          "answer": "$CH_{3}$$CH_{2}$OH ও $CH_{3}$$CH_{2}$Cl",
+          "tag": "math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 5,
+          "question": "জৈব এসিড ও অ্যালকোহলীয় বিক্রিয়ায় উৎপন্ন যৌগে কোন যৌগ মূলক থাকে?",
+          "answer": "[img source: images/chemistry2/option_true_325259_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 6,
+          "question": "IUPAC নাম অনুসারে নিচের যৌগটির নাম কি? [img source: images/chemistry2/question_325718.png]",
+          "answer": "4-ক্লোরো-3-মিথাইল-পেন্ট-2-ইন",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 7,
+          "question": "নিচের কোনটি এরোমেটিক যৌগ?",
+          "answer": "[img source: images/chemistry2/option_true_325719_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 8,
+          "question": "কোনটি এরোমেটিক যৌগ নয়?",
+          "answer": "[img source: images/chemistry2/option_true_325796_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 9,
+          "question": "IUPAC অনুসারে নিচের যৌগটির নাম কী?[img source: images/chemistry2/question_325877.png]",
+          "answer": "3-হাইড্রোক্সি বিউটানোয়ক এসিড",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 10,
+          "question": "কোনটি এরোমেটিক যৌগ নয়?",
+          "answer": "[img source: images/chemistry2/option_true_325878_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 11,
+          "question": "কোনটি অ্যারোম্যাটিক যৌগ নয়?",
+          "answer": "[img source: images/chemistry2/option_true_325958_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 12,
+          "question": "IUPAC নিয়মানুসারে নিচের যৌগটির নাম কি?[img source: images/chemistry2/question_326037.png]",
+          "answer": "প্রোপাইল বেনজোয়েট",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 13,
+          "question": "নিচের কোনটি অ্যারোমাটিক যৌগ নয়?",
+          "answer": "[img source: images/chemistry2/option_true_326038_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 14,
+          "question": "IUPAC নিয়মানুসারে নিচের যৌগটির নাম কি?[img source: images/chemistry2/question_326117.png]",
+          "answer": "2-হাইড্রক্সি-3-মিথাইল-বিউটানাল",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 15,
+          "question": "কোনটি অ্যারোম্যাটিক যৌগ নয়?",
+          "answer": "[img source: images/chemistry2/option_true_326118_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 16,
+          "question": "IUPAC নিয়মানুসারে নিচের যৌগটির নাম কী?[img source: images/chemistry2/question_326197.png]",
+          "answer": "2- মিথাইল-২-প্রোপিন-1-অল",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 17,
+          "question": "অ্যারোমেটিক যৌগের সদস্য হলো- [img source: images/chemistry2/question_326198.png] [img source: images/chemistry2/question_326198.png] [img source: images/chemistry2/question_326198.png]",
+          "answer": "ক ও খ",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 18,
+          "question": "IUPAC নিয়মানুসারে নিচের যৌগটির নাম কী?[img source: images/chemistry2/question_326277.png]",
+          "answer": "1-আইসোপ্রোপাইল -2,4 -ডাইমিথাইল বেনজিন",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 19,
+          "question": "কোনটি অ্যারোমেটিক যৌগ?i. [img source: images/chemistry2/question_326278.png] ii. [img source: images/chemistry2/question_326278.png] iii. [img source: images/chemistry2/question_326278.png]",
+          "answer": "ক ও খ",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2022"
+        },
+        {
+          "id": 20,
+          "question": "$C_{4}$$H_{8}$$Cl_{2}$ যৌগটির আর্দ্র বিশ্লেষণে $C_{4}$$H_{8}$O উৎপন্ন হয় যা হাইড্রোক্সিল অ্যামিনের সাথে বিক্রিয়া করে কিন্তু টলেন বিকারকের সাথে বিক্রিয়া করে না। উৎপন্ন যৌগের গাঠনিক সংকেত নির্ণয় কর।",
+          "answer": "[img source: images/chemistry2/option_true_326804_4.png]",
+          "tag": "math",
+          "history": [],
+          "university": "CKRUET",
+          "year": "2022"
+        },
+        {
+          "id": 21,
+          "question": "প্যারাসিটামল যৌগটির গাঠনিক সংকেত কোনটি? (What is the structural formula of paracetamol?)",
+          "answer": "[img source: images/chemistry2/option_true_326805_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "CKRUET",
+          "year": "2022"
+        },
+        {
+          "id": 22,
+          "question": "কোন যৌগটি অ্যারোমেটিক নয়?",
+          "answer": "[img source: images/chemistry2/option_true_326917_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2022"
+        },
+        {
+          "id": 23,
+          "question": "কোন যৌগতি পলিমার তৈরী করতে পারে?",
+          "answer": "$C_{6}$$H_{5}$-CH=$CH_{2}$",
+          "tag": "math",
+          "history": [],
+          "university": "RU",
+          "year": "2022"
+        },
+        {
+          "id": 24,
+          "question": "জৈব যৌগে >$C=O$ মূলকের উপস্থিতি শনাক্তকরণের জন্য নমুনার সাথে যে যৌগটি যোগ করা হয়-",
+          "answer": "[img source: images/chemistry2/option_true_327050_0.png]",
+          "tag": "math",
+          "history": [],
+          "university": "RU",
+          "year": "2022"
+        },
+        {
+          "id": 25,
+          "question": "[img source: images/chemistry2/question_327494.png]বিক্রিয়ায় A হল-",
+          "answer": "মেটা-নাইট্রো অ্যানিলিন",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2022"
+        },
+        {
+          "id": 26,
+          "question": "[img source: images/chemistry2/question_152558.png]নিম্নলিখিত বিক্রিয়ার জন্য কোন বিকারক প্রয়োজন?",
+          "answer": "$CH_{3}$COCl",
+          "tag": "math",
+          "history": [],
+          "university": "RU",
+          "year": "2021"
+        },
+        {
+          "id": 27,
+          "question": "[img source: images/chemistry2/question_153575.png]এই সাম্যাবস্থাকে বলা হয়-",
+          "answer": "টটোমারিজম",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2021"
+        },
+        {
+          "id": 28,
+          "question": "নিম্নের গঠনটির সঠিক IUPAC নাম কি?[img source: images/chemistry2/question_153584.png]",
+          "answer": "4-ইথাইল-4-মিথাইল-অকটেন",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2021"
+        },
+        {
+          "id": 29,
+          "question": "[img source: images/chemistry2/question_153928.png]উপরের যৌগটির IUPAC নাম কি?",
+          "answer": "3, 7-ডাইমিথাইল-4-নোনাইন",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2021"
+        },
+        {
+          "id": 30,
+          "question": "[img source: images/chemistry2/question_178545.png]ইস্টারটিতে কোন হাইড্রোজেনগুলো বেশি অম্লীয়?",
+          "answer": "3",
+          "tag": "non_math",
+          "history": [],
+          "university": "GST",
+          "year": "2021"
+        },
+        {
+          "id": 31,
+          "question": "Which of the following reaction is incorrect?",
+          "answer": "[img source: images/chemistry2/option_true_198738_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "IUT",
+          "year": "2021"
+        },
+        {
+          "id": 32,
+          "question": "[img source: images/chemistry2/question_308907.png][M] যৌগটি হলো-",
+          "answer": "2-মিথাইল প্রোপিন",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2021"
+        },
+        {
+          "id": 33,
+          "question": "[img source: images/chemistry2/question_308908.png][P] যৌগটি হলো-",
+          "answer": "ইথ্যান্যাল",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2021"
+        },
+        {
+          "id": 34,
+          "question": "[img source: images/chemistry2/question_311285.png][M] এস্টারটি হল-",
+          "answer": "ইথাইল অ্যাসিটেট",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2021"
+        },
+        {
+          "id": 35,
+          "question": "[img source: images/chemistry2/question_311286.png][N] এস্টারটি হল-",
+          "answer": "আইসোপ্রোপাইল ফরমেট",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2021"
+        },
+        {
+          "id": 36,
+          "question": "[img source: images/chemistry2/question_311419.png][P] যৌগটি হলো -",
+          "answer": "বিউটানোন-2",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2021"
+        },
+        {
+          "id": 37,
+          "question": "[img source: images/chemistry2/question_311420.png][N] যৌগটি হলো -",
+          "answer": "$C_{2}$$H_{5}$(CHO)$CH_{3}$",
+          "tag": "math",
+          "history": [],
+          "university": "JU",
+          "year": "2021"
+        },
+        {
+          "id": 38,
+          "question": "[img source: images/chemistry2/question_312437.png]",
+          "answer": "a monomer of protein",
+          "tag": "non_math",
+          "history": [],
+          "university": "BSMRMU",
+          "year": "2021"
+        },
+        {
+          "id": 39,
+          "question": "সর্বাধিক স্থিতিশীল কার্বোক্যাটায়ন কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_178421_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "GST",
+          "year": "2020"
+        },
+        {
+          "id": 40,
+          "question": "র‌্যাডিকেল [img source: images/chemistry2/question_195897.png]অ্যারােম্যাটিক কারণ এতে আছে-",
+          "answer": "1 টি বেনজিং রিং ও 1 টি বেজোড় ইলেকট্রন",
+          "tag": "non_math",
+          "history": [],
+          "university": "BUET",
+          "year": "2020"
+        },
+        {
+          "id": 41,
+          "question": "নিম্নের কোনটি সবচেয়ে দূর্বল ক্ষারক?",
+          "answer": "[img source: images/chemistry2/option_true_195905_1.png]",
+          "tag": "math",
+          "history": [],
+          "university": "BUET",
+          "year": "2020"
+        },
+        {
+          "id": 42,
+          "question": "নিম্নের বিক্রিয়া থেকে P বের কর।[img source: images/chemistry2/question_195911.png]",
+          "answer": "ফেনল",
+          "tag": "non_math",
+          "history": [],
+          "university": "BUET",
+          "year": "2020"
+        },
+        {
+          "id": 43,
+          "question": "[img source: images/chemistry2/question_195914.png]",
+          "answer": "$CH_{3}$CH(OH)$CH_{2}$CHO",
+          "tag": "math",
+          "history": [],
+          "university": "BUET",
+          "year": "2020"
+        },
+        {
+          "id": 44,
+          "question": "নিম্নের যৌগটিতে কতটি সিগমা ও পাই বন্ধন বিদ্যমান?[img source: images/chemistry2/question_152282.png]",
+          "answer": "11,3",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2019"
+        },
+        {
+          "id": 45,
+          "question": "আ্যলাইল আ্যলকোহলের সংকেত কোনটি?",
+          "answer": "$CH_{2}$=CH-$CH_{2}$OH",
+          "tag": "math",
+          "history": [],
+          "university": "RU",
+          "year": "2019"
+        },
+        {
+          "id": 46,
+          "question": "হাকেল রুল মেনে চলে না কোন যৌগ?",
+          "answer": "[img source: images/chemistry2/option_true_181380_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "MBSTU",
+          "year": "2019"
+        },
+        {
+          "id": 47,
+          "question": "সর্বাধিক স্থায়িত্বের কার্বানায়ন কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_181873_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "MBSTU",
+          "year": "2019"
+        },
+        {
+          "id": 48,
+          "question": "নিচের কোনটি জুঁইটার আয়ন তৈরি করে?",
+          "answer": "[img source: images/chemistry2/option_true_181876_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "MBSTU",
+          "year": "2019"
+        },
+        {
+          "id": 49,
+          "question": "Which is the main product following reaction?",
+          "answer": "[img source: images/chemistry2/option_true_198562_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "IUT",
+          "year": "2019"
+        },
+        {
+          "id": 50,
+          "question": "Which reaction is not possible?",
+          "answer": "[img source: images/chemistry2/option_true_198571_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "IUT",
+          "year": "2019"
+        },
+        {
+          "id": 51,
+          "question": "Polymerization reaction is not possible from which of the followings?",
+          "answer": "[img source: images/chemistry2/option_true_198573_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "IUT",
+          "year": "2019"
+        },
+        {
+          "id": 52,
+          "question": "IUPAC পদ্ধতি অনুযায়ী নিম্নের নাম কোনটি? [img source: images/chemistry2/question_314509.png]",
+          "answer": "3-অক্সোবিউটানয়িক এসিড",
+          "tag": "non_math",
+          "history": [],
+          "university": "BUTEX.TEXT",
+          "year": "2019"
+        },
+        {
+          "id": 53,
+          "question": "নিচের কোনটি অ্যারোমেটিক ধর্ম প্রদর্শন করে না-",
+          "answer": "[img source: images/chemistry2/option_true_178045_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "CoU",
+          "year": "2018"
+        },
+        {
+          "id": 54,
+          "question": "কোন বিক্রিয়া দ্বারা[img source: images/chemistry2/question_181673.png]গ্রুপের উপস্থিতি শনাক্ত করা যায়?",
+          "answer": "হ্যালোফর্ম বিক্রিয়া",
+          "tag": "non_math",
+          "history": [],
+          "university": "MBSTU",
+          "year": "2018"
+        },
+        {
+          "id": 55,
+          "question": "নিচের কোন যোগটি অ্যারোমেটিক?",
+          "answer": "[img source: images/chemistry2/option_true_181679_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "MBSTU",
+          "year": "2018"
+        },
+        {
+          "id": 56,
+          "question": "নিচের কোন যৌগটি অ্যারোমোটিক?",
+          "answer": "[img source: images/chemistry2/option_true_181780_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "MBSTU",
+          "year": "2018"
+        },
+        {
+          "id": 57,
+          "question": "নিচের বিক্রিয়াতে উৎপাদ IV এর সংকেত কী হবে?[img source: images/chemistry2/question_200256.png]",
+          "answer": "$CH_{3}$$CH_{2}$OH",
+          "tag": "math",
+          "history": [],
+          "university": "KUET",
+          "year": "2018"
+        },
+        {
+          "id": 58,
+          "question": "নিম্নের কোনটি ডেটল এর গাঠনিক সংকেত?",
+          "answer": "[img source: images/chemistry2/option_true_303922_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2018"
+        },
+        {
+          "id": 59,
+          "question": "নিচের বিক্রিয়াটির নাম কি?[img source: images/chemistry2/question_306217.png]",
+          "answer": "ক্যানিজারো বিক্রিয়া",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2018"
+        },
+        {
+          "id": 60,
+          "question": "নিচের বিক্রিয়াটির নাম কি? [img source: images/chemistry2/question_306500.png]",
+          "answer": "ফ্রিডেল-ক্রাফট বিক্রিয়া",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2018"
+        },
+        {
+          "id": 61,
+          "question": "নিচের বিক্রিয়াটির নাম কি? [img source: images/chemistry2/question_307577.png]",
+          "answer": "রাইমার-টাইম্যান বিক্রিয়া",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2018"
+        },
+        {
+          "id": 62,
+          "question": "নিচের বিক্রিয়ার নাম কি ?[img source: images/chemistry2/question_308280.png]",
+          "answer": "স্যান্ডমেয়ার বিক্রিয়া",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2018"
+        },
+        {
+          "id": 63,
+          "question": "নিম্মের কোনটি জুইটার আয়ন তৈরি করে?",
+          "answer": "[img source: images/chemistry2/option_true_145888_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "DU",
+          "year": "2017"
+        },
+        {
+          "id": 64,
+          "question": "বিক্রিয়াটির বিক্রিয়ক ( R) এর নাম কি?[img source: images/chemistry2/question_157087.png]",
+          "answer": "কিউমিন হাইড্রোপার অস্কাইড",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2017"
+        },
+        {
+          "id": 65,
+          "question": "[img source: images/chemistry2/question_185693.png]যৌগটিকে এসিডিয় $K_{2}$$Cr_{2}$$O_{7 }$দ্বারা জারিত করলে উৎপন্ন হয়-",
+          "answer": "বেনজোয়িক এসিড",
+          "tag": "math",
+          "history": [],
+          "university": "CoU",
+          "year": "2017"
+        },
+        {
+          "id": 66,
+          "question": "একটি যৌগ Na বিক্রিয়া করে $H_{2 }$গ্যাস উৎপন্ন করে, আবার আয়োডোফরম বিক্রিয়ায় হলুদ অধঃক্ষেপ তৈরি করে। যৌগটিতে নিচের কোন অংশটি বিদ্যমান?",
+          "answer": "[img source: images/chemistry2/option_true_185708_0.png]",
+          "tag": "math",
+          "history": [],
+          "university": "CoU",
+          "year": "2017"
+        },
+        {
+          "id": 67,
+          "question": "The Lewis structure for the compound series ketone is --",
+          "answer": "[img source: images/chemistry2/option_true_198390_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "IUT",
+          "year": "2017"
+        },
+        {
+          "id": 68,
+          "question": "Set-I এর সাথে Set-II মিল কর। Set-I [img source: images/chemistry2/question_200161.png] Set-II(1) মিথেন(2) ইথিলিন(3) বেনজিন(4) অ্যাসিটিলিন(5) ইথেন",
+          "answer": "a - 2,b - 4,c- 5, d - 1",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2017"
+        },
+        {
+          "id": 69,
+          "question": "[img source: images/chemistry2/question_200167.png]",
+          "answer": "$C_{6}$$H_{5}$$COONH_{2}$, $C_{6}$$H_{5}$OH and $CH_{3}$$NH_{2}$",
+          "tag": "math",
+          "history": [],
+          "university": "KUET",
+          "year": "2017"
+        },
+        {
+          "id": 70,
+          "question": "-[img source: images/chemistry2/question_306141.png]সংকেতটি কী নির্দেশ করে?",
+          "answer": "ক্লোরোজাইলিন",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 71,
+          "question": "[img source: images/chemistry2/question_306142.png]",
+          "answer": "[img source: images/chemistry2/option_true_306142_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 72,
+          "question": "$CH_{3}$–CH=$CH_{2}$ + HBr $overset(H_2O_2)(to)$ ?",
+          "answer": "$CH_{3}$–$CH_{2}$–$CH_{2}$–Br",
+          "tag": "math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 73,
+          "question": "[img source: images/chemistry2/question_307502.png]",
+          "answer": "[img source: images/chemistry2/option_true_307502_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 74,
+          "question": "নিচের বিক্রিয়াটির নাম কী?[img source: images/chemistry2/question_308198.png]",
+          "answer": "কোব বিক্রিয়া",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 75,
+          "question": "কার্বিল-অ্যামিনের সংকেত কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_308199_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 76,
+          "question": "নিচের বিক্রিয়াটির নাম কী?[img source: images/chemistry2/question_308663.png]",
+          "answer": "রাইমার-টাইমেন বিক্রিয়া",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 77,
+          "question": "পিকরিক অ্যাসিডের সংকেত কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_308684_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 78,
+          "question": "[img source: images/chemistry2/question_309139.png]",
+          "answer": "[img source: images/chemistry2/option_true_309139_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2017"
+        },
+        {
+          "id": 79,
+          "question": "[img source: images/chemistry2/question_147700.png]যৌগটির সঠিক নাম.............।",
+          "answer": "সাইক্লোহেক্সা-1, 3- ডাইইন",
+          "tag": "non_math",
+          "history": [],
+          "university": "CU",
+          "year": "2016"
+        },
+        {
+          "id": 80,
+          "question": "নিম্নের কোন যৌগটি অ্যারোমেটিক ধর্ম প্রকাশ করেনা?",
+          "answer": "[img source: images/chemistry2/option_true_153081_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2016"
+        },
+        {
+          "id": 81,
+          "question": "[img source: images/chemistry2/question_196841.png]বিক্রিয়ায় ব্যবহৃত জারক কোনটি?",
+          "answer": "অম্লীয় $K_{2}$$Cr_{2}$$O_{7}$",
+          "tag": "math",
+          "history": [],
+          "university": "BUTEX",
+          "year": "2016"
+        },
+        {
+          "id": 82,
+          "question": "[img source: images/chemistry2/question_196844.png]উপরের বিক্রিয়ায় কোন যৌগটি ইলেক্ট্রনাকর্ষী সংযোজন বিক্রিয়া প্রদর্শন করবে?",
+          "answer": "C",
+          "tag": "non_math",
+          "history": [],
+          "university": "BUTEX",
+          "year": "2016"
+        },
+        {
+          "id": 83,
+          "question": "র‌্যাডিকেল [img source: images/chemistry2/question_200061.png]অ্যারােম্যাটিক কারণ এতে আছে-",
+          "answer": "1 টি বেনজিং রিং ও 1 টি বেজোড় ইলেকট্রন",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2016"
+        },
+        {
+          "id": 84,
+          "question": "নিম্নের কোনটি সবচেয়ে দূর্বল ক্ষারক?",
+          "answer": "[img source: images/chemistry2/option_true_200070_1.png]",
+          "tag": "math",
+          "history": [],
+          "university": "KUET",
+          "year": "2016"
+        },
+        {
+          "id": 85,
+          "question": "নিম্নের বিক্রিয়া থেকে P বের কর।[img source: images/chemistry2/question_200076.png]",
+          "answer": "ফেনল",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2016"
+        },
+        {
+          "id": 86,
+          "question": "$CH_{3}$CHO+2, 4-DNP→ A+$H_{2}$O ; A যৌগটি হচ্ছে-",
+          "answer": "[img source: images/chemistry2/option_true_303764_0.png]",
+          "tag": "math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 87,
+          "question": "কোনটি মেটা-জাইলিন?",
+          "answer": "[img source: images/chemistry2/option_true_306061_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 88,
+          "question": "কোনটি পিরিডিন?",
+          "answer": "[img source: images/chemistry2/option_true_307413_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 89,
+          "question": "নিম্নের বিক্রিয়ায় কী উৎপন্ন হয়? [img source: images/chemistry2/question_307414.png]",
+          "answer": "[img source: images/chemistry2/option_true_307414_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 90,
+          "question": "কোনটি পিকরিক এসিড?",
+          "answer": "[img source: images/chemistry2/option_true_308114_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 91,
+          "question": "নিম্নের বিক্রিয়াটি সম্পূর্ণ কর-[img source: images/chemistry2/question_308125.png]",
+          "answer": "[img source: images/chemistry2/option_true_308125_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 92,
+          "question": "কোন দুটি যৌগ যথাক্রমে বেনজো এবং বেনজাইল ক্লোরাইড?",
+          "answer": "[img source: images/chemistry2/option_true_308845_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 93,
+          "question": "নিম্নের বিক্রিয়াটি সম্পূর্ণ কর - [img source: images/chemistry2/question_308846.png]",
+          "answer": "[img source: images/chemistry2/option_true_308846_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2016"
+        },
+        {
+          "id": 94,
+          "question": "নিচের কোন কার্যকরী মূলক এর সক্রিয়তা সবচেয়ে বেশি?",
+          "answer": "[img source: images/chemistry2/option_true_312113_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JnU",
+          "year": "2016"
+        },
+        {
+          "id": 95,
+          "question": "[img source: images/chemistry2/question_145532.png]যৌগটির IUPAC নাম হলো-",
+          "answer": "1-butyle-3,4-dimethyle benzen",
+          "tag": "non_math",
+          "history": [],
+          "university": "DU",
+          "year": "2015"
+        },
+        {
+          "id": 96,
+          "question": "হেক্স-4-আইন-2-ওন-হলো_____।",
+          "answer": "[img source: images/chemistry2/option_true_147591_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "CU",
+          "year": "2015"
+        },
+        {
+          "id": 97,
+          "question": "মারকনিকভ এর বিপরীত ক্রিয়ায় জৈব পারঅক্সাইডের উপস্থিতিতে হাইড্রোজেন ব্রোমাইড ও প্রোপিন এর সাথে বিক্রিয়ার মূল উৎপাদটি হলো___।",
+          "answer": "[img source: images/chemistry2/option_true_147598_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "CU",
+          "year": "2015"
+        },
+        {
+          "id": 98,
+          "question": "নিচের যৌগগুলির কোনটি সিস্ট্রান্স সমাণুতা প্রদর্শন করে?",
+          "answer": "$CH_{3}$$CH=CH$-$CH_{3}$",
+          "tag": "math",
+          "history": [],
+          "university": "PSTU",
+          "year": "2015"
+        },
+        {
+          "id": 99,
+          "question": "নিম্নের যৌগটির নাম-[img source: images/chemistry2/question_191782.png]",
+          "answer": "3-হাইড্রোক্সি -2 মিথাইল বিউটান্যাল",
+          "tag": "non_math",
+          "history": [],
+          "university": "CVASU",
+          "year": "2015"
+        },
+        {
+          "id": 100,
+          "question": "[img source: images/chemistry2/question_197829.png]বিক্রিয়াটিতে $HNO_{3}$ এর ভূমিকা কী?",
+          "answer": "Base",
+          "tag": "math",
+          "history": [],
+          "university": "CUET",
+          "year": "2015"
+        },
+        {
+          "id": 101,
+          "question": "কোন কার্বনাইল যৌগটির v̄($C=0$) এর মান সর্বাধিক?",
+          "answer": "[img source: images/chemistry2/option_true_197847_2.png]",
+          "tag": "math",
+          "history": [],
+          "university": "CUET",
+          "year": "2015"
+        },
+        {
+          "id": 102,
+          "question": "নিচের কোনটি উর্টজ বিক্রিয়া?",
+          "answer": "[img source: images/chemistry2/option_true_199959_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2015"
+        },
+        {
+          "id": 103,
+          "question": "নিচের কোনটি সবচেয়ে দুর্বল এসিড?",
+          "answer": "[img source: images/chemistry2/option_true_199960_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2015"
+        },
+        {
+          "id": 104,
+          "question": "[img source: images/chemistry2/question_145341.png]ArCH(OH)COOH বিকারকটি-",
+          "answer": "HCN",
+          "tag": "math",
+          "history": [],
+          "university": "DU",
+          "year": "2014"
+        },
+        {
+          "id": 105,
+          "question": "আইসোইলেকট্রিক পয়েন্টে অ্যামাইনো এসিডসমূহ কোনরুপে অবস্থান করে?",
+          "answer": "[img source: images/chemistry2/option_true_145342_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "DU",
+          "year": "2014"
+        },
+        {
+          "id": 106,
+          "question": "[img source: images/chemistry2/question_147497.png]যৌগটির IUPAC নাম কী?",
+          "answer": "2,2,4- ট্রাইমিথাইলহেক্সেন",
+          "tag": "non_math",
+          "history": [],
+          "university": "CU",
+          "year": "2014"
+        },
+        {
+          "id": 107,
+          "question": "IUPAC পদ্ধতিতে যৌগটির নাম কি? [img source: images/chemistry2/question_184733.png]",
+          "answer": "২, ৬- ডাইমিথাইল -৩- অক্টিন",
+          "tag": "non_math",
+          "history": [],
+          "university": "SUST",
+          "year": "2014"
+        },
+        {
+          "id": 108,
+          "question": "নিচের প্রশ্নগুলাে থেকে সঠিক উত্তর বেছে নাও।i. নিচের কোন যৌগটি সাবান শিল্পে উপজাত হিসাবে পাওয়া যায়? ii. অ্যাসপিরিন এর গাঠনিক সংকেত কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_197779_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "CUET",
+          "year": "2014"
+        },
+        {
+          "id": 109,
+          "question": "একটি জৈব যৌগের জলীয় দ্রবণ নীল লিটমাসকে লাল করে। এতে $AgNO_{3}$ এর জলীয় দ্রবণ যােগ করা হলে সাদা অধঃক্ষেপ পাওয়া যায়। জৈব যৌগটির বাষ্প ঘনত্ব 39.25। যৌগটিতে ইথানল যােগ করা হলে মিষ্টি গন্ধযুক্ত যৌগ উৎপন্ন হয়। যৌগটির গাঠনিক সংকেত লিখ।",
+          "answer": "[img source: images/chemistry2/option_true_199863_1.png]",
+          "tag": "math",
+          "history": [],
+          "university": "KUET",
+          "year": "2014"
+        },
+        {
+          "id": 110,
+          "question": "ক্লোরােফরম এর ক্ষেত্রে নিম্নের কোন বিক্রিয়াটি সঠিক নয়?",
+          "answer": "[img source: images/chemistry2/option_true_199876_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2014"
+        },
+        {
+          "id": 111,
+          "question": "নিচের কোনটি সঠিক?",
+          "answer": "[img source: images/chemistry2/option_true_201556_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "RUET",
+          "year": "2014"
+        },
+        {
+          "id": 112,
+          "question": "কোনটি ডেটলের গাঠনিক সংকেত?",
+          "answer": "[img source: images/chemistry2/option_true_201563_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "RUET",
+          "year": "2014"
+        },
+        {
+          "id": 113,
+          "question": "নিম্মের কোন বিক্রিয়াটি সঠিক?",
+          "answer": "[img source: images/chemistry2/option_true_201573_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "RUET",
+          "year": "2014"
+        },
+        {
+          "id": 114,
+          "question": "নিচের কোন গাঠনিক সংকেতটি সঠিক নয়?",
+          "answer": "[img source: images/chemistry2/option_true_304399_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2014"
+        },
+        {
+          "id": 115,
+          "question": "বেনজাইল ক্লোরাইড এর গাঠনিক সংকেত কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_304400_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2014"
+        },
+        {
+          "id": 116,
+          "question": "নিচের কোন যৌগটি $O_{3}$ এর সাথে বিক্রিয়া করে?",
+          "answer": "[img source: images/chemistry2/option_true_147386_0.png]",
+          "tag": "math",
+          "history": [],
+          "university": "CU",
+          "year": "2013"
+        },
+        {
+          "id": 117,
+          "question": "ডাউ প্রণালীতে নিম্নের কোন যৌগটি উৎপন্ন করা যায়?",
+          "answer": "[img source: images/chemistry2/option_true_195235_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "BUET",
+          "year": "2013"
+        },
+        {
+          "id": 118,
+          "question": "নিম্নের কোনটি আসিটিলিনের পলিমার?",
+          "answer": "[img source: images/chemistry2/option_true_195239_3.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "BUET",
+          "year": "2013"
+        },
+        {
+          "id": 119,
+          "question": "কোন গাঠনিক সংকেত পেপটাইড বন্ধন প্রকাশ করে?",
+          "answer": "[img source: images/chemistry2/option_true_195243_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "BUET",
+          "year": "2013"
+        },
+        {
+          "id": 120,
+          "question": "অ্যানহাইড্রাইড মূলকের গাঠনিক সংকেত কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_197658_2.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "CUET",
+          "year": "2013"
+        },
+        {
+          "id": 121,
+          "question": "নিম্নের কোনটি সঠিক?",
+          "answer": "None",
+          "tag": "non_math",
+          "history": [],
+          "university": "RUET",
+          "year": "2013"
+        },
+        {
+          "id": 122,
+          "question": "[img source: images/chemistry2/question_307190.png]কার্যকরী মূলক কোন যৌগে আছে?",
+          "answer": "অ্যাসিটিক অ্যানহাইড্রাইড",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2013"
+        },
+        {
+          "id": 123,
+          "question": "ফেনল ও ক্লোরোফর্ম মিশ্রণকে জলীয় কস্টিক পটাশের সাথে উত্তপ্ত করে আর্দ্র বিশ্লেষণ করলে উৎপন্ন যৌগটি নিম্নের কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_311115_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2013"
+        },
+        {
+          "id": 124,
+          "question": "বেনজাইল অ্যালকোহলের গাঠনিক সংকেত কোনটি?",
+          "answer": "[img source: images/chemistry2/option_true_311121_0.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "JU",
+          "year": "2013"
+        },
+        {
+          "id": 125,
+          "question": "নিম্নের কোন্‌টি এস্টার?",
+          "answer": "[img source: images/chemistry2/option_true_147295_1.png]",
+          "tag": "non_math",
+          "history": [],
+          "university": "CU",
+          "year": "2012"
+        },
+        {
+          "id": 126,
+          "question": "[img source: images/chemistry2/question_151666.png]যৌগটির কয়টি সমাণু?",
+          "answer": "3",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2012"
+        },
+        {
+          "id": 127,
+          "question": "[img source: images/chemistry2/question_184591.png]উৎপন্ন I, II এবং III হলাে যথাক্রমে-",
+          "answer": "বেনজয়িক এসিড, সােডিয়াম বেনজয়েট, বেনজিন",
+          "tag": "non_math",
+          "history": [],
+          "university": "SUST",
+          "year": "2012"
+        },
+        {
+          "id": 128,
+          "question": "[img source: images/chemistry2/question_184593.png]উৎপাদ I, II এবং III হলাে যথাক্রমে-",
+          "answer": "হেপ্টিন-1, মিথাইল সাইক্লোহক্সেন, টলুইন",
+          "tag": "non_math",
+          "history": [],
+          "university": "SUST",
+          "year": "2012"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "পরিমাণগত রসায়ন",
+      "accessibility": "regular",
+      "cards": [
+        {
+          "id": 1,
+          "question": "[img source: images/chemistry2/question_153308.png]এ Cr এর জারণ সংখ্যা কত?",
+          "answer": "6",
+          "tag": "non_math",
+          "history": [],
+          "university": "RU",
+          "year": "2019"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "তড়িৎ রসায়ন",
+      "accessibility": "regular",
+      "cards": [
+        {
+          "id": 1,
+          "question": "নিচের বিক্রিয়ার জন্য Δ$E^{0 }$এর মান কত?[img source: images/chemistry2/question_153797.png]",
+          "answer": "-0.90V",
+          "tag": "math",
+          "history": [],
+          "university": "RU",
+          "year": "2020"
+        },
+        {
+          "id": 2,
+          "question": "নিম্নের নিউক্লিয়ার বিক্রিয়া থেকে Q নির্ণয় কর।[img source: images/chemistry2/question_200152.png]",
+          "answer": "^{220}_{86}Rn",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2017"
+        },
+        {
+          "id": 3,
+          "question": "নিম্নের নিউক্লিয়ার বিক্রিয়া থেকে P বাহির কর। [img source: images/chemistry2/question_199955.png]",
+          "answer": "^{230}_{90}Th",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "অর্থনৈতিক রসায়ন",
+      "accessibility": "regular",
+      "cards": [
+        {
+          "id": 1,
+          "question": "নিচের কোনটি গ্লাস ক্লিনার তৈরির জন্য উপযোগী নয়? [img source: images/chemistry2/question_199977.png]",
+          "answer": "P",
+          "tag": "non_math",
+          "history": [],
+          "university": "KUET",
+          "year": "2015"
+        }
+      ]
+    }
+  ]
+}

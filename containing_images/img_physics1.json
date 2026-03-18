@@ -1,0 +1,3144 @@
+{
+  "subject": "P-1",
+  "count": 45,
+  "questions": [
+    {
+      "pk": 459186,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিচের বর্তনীর 2Ω রোধের মধ্য দিয়ে কারেন্টের মান কত? (ডায়োডটি আদর্শ)</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2024-09-11/a604cc7d-89cd-4ad2-a481-38a6dbb36e6b-Screenshot-20240911-122803.jpg\" style=\"width: 465px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>2.5A</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>10A</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>2A</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>0A</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2024-09-13/668c2446-fb55-4890-9c3d-0b53547ef4e9-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 32668,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 169,
+          "tag": "2023"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 966,
+          "tag": "P-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3296,
+          "tag": "আদর্শ সমীকরণ"
+        }
+      ]
+    },
+    {
+      "pk": 154026,
+      "question": "<p><strong><span style=\"font-size: 18px;\">ভেক্টরত্রয়ের সম্পর্কটিকে কোন চিত্রটি প্রকাশ করে?</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-02/fa159a0a-c5f5-4978-8c5d-7bb8dac4bcc2-image.png\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-09-14/98162a8d-a376-4ada-a1c9-1b8c4fbe5b98-Screenshot-20220914-160435-Adobe-Acrobat.jpg\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-09-14/64b2b808-a8cd-43c2-882a-0763aa1689a5-Screenshot-20220914-160442-Adobe-Acrobat.jpg\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>কোনোটাই নয়</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/a627af40-4b5b-4619-9dd6-bcfb8c13f60f-image.png\"/></p>",
+      "mark": 1.25,
+      "type": "QUESTION",
+      "serial_number": 40566,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 30,
+          "tag": "Set-4"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 910,
+          "tag": "P-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 2918,
+          "tag": "লব্ধির মান ও দিক নির্ণয়"
+        }
+      ]
+    },
+    {
+      "pk": 195725,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-14/1bcfc29b-5403-48f8-b6de-53146c41cc1f-IMG-20221115-000439-472.jpg\" style=\"width: 301px;\"/></strong></span></span></strong></p><ol style=\"list-style-type: lower-roman;\"><li><strong><span style=\"font-size: 18px;\"><strong>BC এর দৈর্ঘ্য নির্ণয় করো।</strong></span></strong></li><li><strong><span style=\"font-size: 18px;\"><strong>সরাসরি B বিন্দুতে যেতে হলে কত কোণে রওনা দিতে হবে।</strong></span></strong></li></ol>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-01/3cd10f76-151d-4972-925f-520f840d6da9-image.png\"/></p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 40943,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 910,
+          "tag": "P-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3312,
+          "tag": "নদী ও নৌকা"
+        }
+      ]
+    },
+    {
+      "pk": 195783,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-12/bd204a1a-d499-4717-b22e-70887d5573e3-image.png\" style=\"width: 103px;\"/>কম্পাঙ্ক কত?</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">1/(2π) sqrt(M/(k_1+k_2))</span> </p>"
+        },
+        {
+          "answer": true,
+          "option": "<p> <span class=\"mathy\">1/(2π) sqrt((k_1+k_2)/M</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">2πsqrt(M/(k_1+k_2)</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">2pisqrt((k_1+k_2)/M</span> </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-12/1250b61b-6572-4bc5-a8ba-601d6d8bdc31-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 41001,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 950,
+          "tag": "P-1.8"
+        },
+        {
+          "type": "topic",
+          "value": 3075,
+          "tag": "স্প্রিং ধ্রুবক"
+        }
+      ]
+    },
+    {
+      "pk": 312474,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিম্নে দুটি বস্তুর মধ্যে রৈখিক সংঘর্ষের চিত্র দেওয়া হলো:</span></strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/3ba00e3f-a24c-4be7-9b53-062f0bd276bb-image.png\"/></span></strong></p><p><strong><span style=\"font-size: 18px;\">(i) সংঘর্ষের পরে বস্তুদ্বয়ের বেগ নির্ণয় কর?</span></strong></p><p><strong><span style=\"font-size: 18px;\">(ii) সংঘর্ষের পূর্বে এবং পরে বস্তুদ্বয়ের গতিশক্তি নির্ণয় কর।</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/ff152102-b0ae-44b9-8dd2-fb8be50657f5-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 43933,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 110,
+          "tag": "BSMRMU"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 79,
+          "tag": "FEOS"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3307,
+          "tag": "সংঘর্ষ"
+        }
+      ]
+    },
+    {
+      "pk": 314066,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>কোনো বস্তুর ভর ধ্রুব থাকলে গতিশক্তি ও ভরবেগ পরিবর্তনের গ্রাফ কিরূপ হবে?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-13/24fe6ecc-c4b3-438e-8fb9-1c80bb9a980f-IMG-20220314-015729-207.jpg\" style=\"width: 150px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-13/c22ad706-41e2-4e1c-8c63-e8e2d3234085-IMG-20220314-015728-388.jpg\" style=\"width: 150px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-13/408349b4-7178-4a0e-88b0-6345c9c9c5ff-IMG-20220314-015726-615.jpg\" style=\"width: 155px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-14/8c9e40dc-48cb-4641-9f89-336030cb84c8-image.png\" style=\"width: 369px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 44310,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 111,
+          "tag": "BUP"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 84,
+          "tag": "FST"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3307,
+          "tag": "সংঘর্ষ"
+        }
+      ]
+    },
+    {
+      "pk": 314071,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>নিচের চিত্রের ক্ষেত্রে কোনটি সঠিক?</strong></span></p><p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-14/74236f68-5363-461a-b47e-cb6ee21bea4a-IMG-20220314-160959-260.jpg\" style=\"width: 206px;\"/></strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>-∆.V</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>∆V</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-∆V</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>+∆.V</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-14/57ae43f6-7141-472d-a2b5-2fab184a5402-image.png\" style=\"width: 594px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 44315,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 111,
+          "tag": "BUP"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 84,
+          "tag": "FST"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 910,
+          "tag": "P-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3596,
+          "tag": "ভেক্টর ক্যালকুলাস"
+        }
+      ]
+    },
+    {
+      "pk": 146304,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>অভিকর্ষীয় ত্বরণ g বনাম পৃথিবী পৃষ্ঠ হতে গভীরতা h এর লেখচিত্র কোনটি?</strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-01/65fe43d3-ab54-4ac2-8711-44c2c0eb1261-image.png\" style=\"width: 69px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-01/8f75e9af-129c-4f79-b4c2-8974ad52edbb-image.png\" style=\"width: 77px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-01/486a2ee8-98ec-47ce-a831-c1b0197f3cbc-image.png\" style=\"width: 69px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-01/17381ec4-206b-4bcf-970c-0e0ff109cd52-image.png\" style=\"width: 84px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-01/2b59c640-7634-4698-ba70-f2b49d8d459b-image.png\" style=\"width: 593px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 46134,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 967,
+          "tag": "P-1.6"
+        },
+        {
+          "type": "topic",
+          "value": 3199,
+          "tag": "অভিকর্ষজ ত্বরণ ও পরিবর্তন"
+        }
+      ]
+    },
+    {
+      "pk": 152408,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>অসম বেগে গতিশীল বস্তর ক্ষেত্রে নিচের কোন লেখচিত্র দ্বারা সময় (t)-এর সাথে অতিক্রান্ত দূরত্ব (x)-এর সম্পর্ক প্রকাশ করা যায়?<br/></strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/89952a59-f0a2-41d0-b35d-2bc3ae001ea3-image.png\" style=\"width: 141px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/9d192cc8-962e-4c80-a0b3-f3fb457f9cd0-image.png\" style=\"width: 135px;\"/><br/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/63a379c2-3ca0-4bdd-9961-3e74c2c4f5e3-image.png\" style=\"width: 118px;\"/><br/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/0e1d5a5e-be48-48e6-bdd3-6ead4483eb83-image.png\" style=\"width: 118px;\"/><br/></p>"
+        }
+      ],
+      "explanation": "<p>সময়ের সাথে বেগের মান ভিন্ন হবে।সরন-সময় লেখের ঢাল বেগ নির্দেশ করে।তাই গ অপশনের বক্ররেখা মুলত প্রতি বিন্দুতে ভিন্ন ঢালের মান দিয়ে বুঝাচ্ছে বেগের মানও প্রতি বিন্দুতে ভিন্ন।</p><p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/798d6ff1-6aa1-4936-a786-548c9c8cad81-image.png\" style=\"width: 352px;\"/></p>",
+      "mark": 1.25,
+      "type": "QUESTION",
+      "serial_number": 46764,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 153418,
+      "question": "<p><strong><span style=\"font-size: 18px;\">একটি বস্তুকে খাড়াভাবে উপরের দিকে ছুড়ে দেওয়া হলাে। কোন লেখচিত্রটি ভূমি হতে উচ্চতা h এর সাপেক্ষে বিভবশক্তি E নির্দেশ করে?<br/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/f1c485f6-7617-459b-9fea-14cfe9fb69e0-image.png\" style=\"width: 153px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/7e52e450-6d0d-415e-bbea-bf5a6047eccb-image.png\" style=\"width: 168px;\"/><br/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/093ef8e9-1f84-40d6-abe8-a5ef47662397-image.png\" style=\"width: 150px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/aa8b6706-1669-44f7-a738-8e8c1d81145a-image.png\" style=\"width: 169px;\"/><br/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/dbe878bf-bd36-4b43-be45-308f749b7642-image.png\" style=\"width: 344px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 46877,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 28,
+          "tag": "Set-2"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 905,
+          "tag": "P-1.5"
+        },
+        {
+          "type": "topic",
+          "value": 2999,
+          "tag": "শক্তি"
+        }
+      ]
+    },
+    {
+      "pk": 153437,
+      "question": "<p><strong><span style=\"font-size: 18px;\">একটি চলমান বস্তুর সময় t-এর সাথে বেগ v-এর সম্পর্ক নিম্নের লেখচিত্রে দেখানাে হয়েছে। লেখচিত্রের কোন অংশটি ভুলভাবে চিহ্নিত করা হয়েছে?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-04/9a184f75-5adc-4509-aa53-e94d88272e37-image.png\" style=\"width: 321px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>সমত্বরণ</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>মন্দন</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>সমবেগ</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>অসমবেগ</p>"
+        }
+      ],
+      "explanation": "<p>শেষ অংশ ভুলভাবে চিহ্নিত হয়েছে।</p>",
+      "mark": 1.25,
+      "type": "QUESTION",
+      "serial_number": 46896,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 28,
+          "tag": "Set-2"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 153767,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিচের চিত্রে একটি গাড়ির গতীয় অবস্থা দেখানাে হয়েছে। এই সময়কালে গাড়িটি কত দূরত্ব অতিক্রম করেছে?</span></strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-05/93caa943-d58f-41d1-9123-97af4ffc4817-image.png\" style=\"width: 293px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>600 m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>300 m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>400 m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>800 m</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>Blank</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-05/90e109a0-cff1-4945-9ea1-48bc9ddedd28-image.png\" style=\"width: 406px;\"/></p>",
+      "mark": 1.25,
+      "type": "QUESTION",
+      "serial_number": 47017,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 29,
+          "tag": "Set-3"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 153768,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>কোন গ্রাফটি ভূ-পৃষ্ঠ থেকে পৃথিবীর কেন্দ্রের দিকে বিভিন্ন গভীরতা d-এর জন্য অভিকর্ষজ ত্বরণ g-এর মান নির্দেশ করে?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-05/215dbafd-b545-4f00-9b75-d055a7b2020a-image.png\" style=\"width: 185px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-05/38365a1a-c2de-45c6-b514-a6908e674eca-image.png\" style=\"width: 161px;\"/><br/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-05/efab836d-d43a-41c3-85b2-b9a6d793101a-image.png\" style=\"width: 190px;\"/><br/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-05/4802f35d-418d-41cf-a2e3-05f9d81d57fc-image.png\" style=\"width: 206px;\"/><br/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-05/03db6e93-54fa-41a0-a1b3-1a279056c8bb-image.png\" style=\"width: 372px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47018,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 29,
+          "tag": "Set-3"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 967,
+          "tag": "P-1.6"
+        },
+        {
+          "type": "topic",
+          "value": 3199,
+          "tag": "অভিকর্ষজ ত্বরণ ও পরিবর্তন"
+        }
+      ]
+    },
+    {
+      "pk": 195877,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><br/><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2020-08-13%2F5e43c64e-fefb-4292-a28e-b6575004de17-ACFrOgDrTHh-J2YxFe4trKWngdUHw7FBzQDHmvS23TDpMiPAhkIa4-xJHLhGvzYPMVFFTCl4yj3zyG5b9NuaX8f4sHWtB7u0jr2w3V\" style=\"width: 195px;\"/>উপরের চিত্র হতে প্রযুক্ত বল দ্বারা মোট কৃতকাজ কত?</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>2j</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>3j</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>5j</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2020-08-15%2Fb2a30c3e-0c3e-430e-a857-1dd33ad6f041-New1554.jpg\" style=\"width: 394px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47412,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 905,
+          "tag": "P-1.5"
+        },
+        {
+          "type": "topic",
+          "value": 2912,
+          "tag": "কাজ"
+        }
+      ]
+    },
+    {
+      "pk": 198633,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A string, 2 m in length, is fixed at both ends and tightened untill the weve speed is 92m/s. What is the frequency of the standing wave shown? </span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/fdb846a7-820c-48bc-ad00-d94150365839-image.png\" style=\"width: 377px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>46 Hz</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>33 Hz</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>240 Hz</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>138 Hz</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>Blank</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/f5a9870e-9444-4002-8234-b782627e55d8-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47511,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 950,
+          "tag": "P-1.8"
+        },
+        {
+          "type": "topic",
+          "value": 2986,
+          "tag": "পর্যাবৃত্ত গতি"
+        }
+      ]
+    },
+    {
+      "pk": 146199,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\"><strong>একটি গাড়ি স্থির অবস্থা (P বিন্দু) হতে সােজা রাস্তায় যাত্রা শুরু করল। কিছু সময় পরে গাড়িটি মন্দনের ফলে থেমে গেল এবং একই ভাবে (প্রথমে গতি বাড়িয়ে এবং পরে গতি কমিয়ে) আবার যাত্রা শুরু করে P বিন্দুতে ফিরে আসলাে। নীচের কোন লেখচিত্রটি গাড়ির গতিকে প্রকাশ করে?</strong></span></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-15%2F056c3309-016e-4a50-8558-e778d611d1c5-IMG20210615224024.jpg\" style=\"width: 82px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-15%2Fef1e5de5-baf1-44cf-8c52-b8a7a2f1a420-IMG20210615223957.jpg\" style=\"width: 71px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-15%2Fefe4bd31-7ae0-4b23-b78a-3b1893283f3a-IMG20210615223925.jpg\" style=\"width: 71px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-15%2F96efc713-fa44-4405-bc3f-f0a5a8e44000-IMG20210615224508.jpg\" style=\"width: 78px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-16%2F65e7585e-ee40-45f7-bbe5-bf1fe61f37c5-image.png\" style=\"width: 500px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 51644,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 152262,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>চার্লসের সূত্রটি নিচের কোন লেখচিত্র দিয়ে প্রকাশ করা হয় ?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-21/7a8364c1-5390-49b0-b9f0-18a1f58a8ba9-image.png\" style=\"width: 61px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-21/5cdadbd8-d303-44c4-ad1f-7be87cc66000-image.png\" style=\"width: 75px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-21/7713504f-1ccd-4274-bfed-6f4dd9f7c1e1-image.png\" style=\"width: 70px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-21/4921d46a-ba70-4a81-9702-3ddf5a63acec-image.png\" style=\"width: 71px;\"/></p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 51997,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 966,
+          "tag": "P-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3227,
+          "tag": "সার্বজনীন গ্যাস ধ্রুবক"
+        }
+      ]
+    },
+    {
+      "pk": 185072,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-12/1a409953-69bb-4e95-9acf-7b0f8d84fb22-image.png\" style=\"width: 270px;\"/></span></strong><strong><strong><span style=\"font-size: 18px;\">বেগ-সময় লেখচিত্র অনুযায়ী 12 সেকেন্ডে অতিক্রান্ত দূরত্ব কত m?</span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>98</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>78</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>88</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>68</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>108</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-11/2a1a921b-3142-4205-84ba-8924d07db2a1-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 53835,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 76,
+          "tag": "SUST"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 53,
+          "tag": "Unit-B"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 198540,
+      "question": "<p><strong><span style=\"font-size: 18px;\">An 80 kg and 180.0 cm tall athlete is doing of push -ups as shown in the accompanying figure.His center of mass is 1.15m from the bottom of his feet,and the centers of his palms are 30.0 cm from the top of his head.What is the force that the floor exerts on each of his feet?<img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-05/24a7311a-380f-4e5e-b1ee-7fa8e890ffb2-image.png\" style=\"width: 339px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>115.25N</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>130.25N</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>110.25N</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>120.50N</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>Blank</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-05/43ca4f5e-c9ee-4f34-aa8f-667730d80321-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 54096,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 2985,
+          "tag": "বলের ধারণা, প্রকারভেদ ও নিউটনের গতিসূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 201975,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A,B ও C বিন্দুতে ত্বরন কত হবে?</span></strong></p><p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-09/dc60b3d6-3576-43f2-96a2-efd185ca3cab-image.png\" style=\"width: 464px;\"/></strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-09/80c96321-4473-4800-be0f-695e81f3347f-image.png\"/></p>",
+      "mark": 5,
+      "type": "QUESTION",
+      "serial_number": 54267,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 95,
+          "tag": "MIST"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 309666,
+      "question": "<p><strong><span style=\"font-size: 18px;\">একটি ভেক্টর রাশি চিত্রের মতো করে v<sub>x</sub> ও v<sub>y </sub>উপাংশে বিভাজন করা হল।<sub> </sub>θ এর মান কত হলে v<sub>x </sub>ও v<sub>y </sub>এর উপাংশগুলো সমান হবে?<img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-13/e2503ccf-6ec5-4401-a069-77bcdd463d41-image.png\" style=\"width: 238px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>150</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>120</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>90</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>45</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-05/3c4a7a3b-78bf-4b61-abf6-be13c1e1fd74-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 58415,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 46,
+          "tag": "Unit-H"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 910,
+          "tag": "P-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3579,
+          "tag": "আয়াতে একক ভেক্টর এর অক্ষের সাথে সম্পর্ক"
+        }
+      ]
+    },
+    {
+      "pk": 309678,
+      "question": "<p><strong><span style=\"font-size: 18px;\">পাশে প্রদত্ত চিত্রানুসা<span style=\"background-color: initial; font-size: 1rem;\">রে 2m ব্যাসার্ধের একটি অর্ধবৃত্তাকার পথে একটি বস্তু গতিশীল আছে। যদি P থেকে Q বিন্দুতে পৌঁছাতে কণাটির 2s সময় লাগে তবে গড়বেগ কত?<img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-13/ae99b2d1-b441-4965-92f3-95af67b4fd91-image.png\" style=\"width: 287px;\"/></span></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>1 ms<sup>-1</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2ms<sup>-1</sup></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>π ms<sup>-1</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2π ms<sup>-1</sup> </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-05/02d2a84b-2f9d-46e4-8fd3-14619add7dfe-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 58427,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 46,
+          "tag": "Unit-H"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3082,
+          "tag": "গড়বেগ"
+        }
+      ]
+    },
+    {
+      "pk": 146036,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>একটি গাড়ি একটি সােজা রাস্তায় স্থির অবস্থা থেকে ত্বরণের মাধ্যমে যাত্রা শুরু করল। কিছু সময় পরে গাড়িটি মন্দনের মাধ্যমে থেমে। যায়। গাড়িটি একই পথে একইভাবে যাত্রা করে পূর্ববর্তী স্থানে ফিরে আসে। নিম্নলিখিত কোন লেখচিত্রটি গাড়িটির গতিকে প্রকাশ করে?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/df4b3bd5-f2a6-439a-9368-181e23fffe84-image.png\" style=\"width: 78px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/dd267042-def9-49c6-ae01-2376de5dfe96-image.png\" style=\"width: 73px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/523829df-2d1e-42c7-8059-e0f1489e56bc-image.png\" style=\"width: 85px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/0d4c9541-4aec-424b-8f05-90232bab93ac-image.png\" style=\"width: 74px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-07-19%2F09c060e2-3fbb-4f20-8a40-b3b0779f726c-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 62849,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 146037,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>10 m/s সমদ্রুতিতে r ব্যাসার্ধের বৃত্তাকার পথে ঘূর্ণায়মান একটি কণার ক্ষেত্রে নিচের চারটি লেখচিত্রের কোনটি সঠিক (কণার ত্বরণ a)?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/f8704a9e-3709-4cd3-b4d0-f23063005bb3-image.png\" style=\"width: 65px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/713f4b4d-e426-48cd-9042-03e06962dd49-image.png\" style=\"width: 66px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/96268be1-656f-4eb4-a75a-50b135094b38-image.png\" style=\"width: 73px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/36fd2d22-3d00-4ed4-8979-3542b568f88f-image.png\" style=\"width: 75px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-07-19%2Fe9add8cc-9692-43b0-8a92-e31b7d91d3fc-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 62850,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 153218,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"color: rgb(0, 0, 0);\">তাপমাত্রা স্থির থাকলে আয়তন(V) ও চাপ(P) এর সম্পর্ক কোন লেখচিত্রটি প্রকাশ করে?</span></span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-10/7d49725a-9260-4582-8f85-1a66e08f4b8f-image.png\" style=\"width: 421px;\"/></span></strong></strong></p><p><strong><strong><span style=\"font-size: 18px;\">নিচের কোনটি সঠিক?</span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>(i) ও (ii)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(ii) ও (iii)</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>(i) ও (iii)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(i), (ii) ও (iii)</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-10/d16bf1de-4a91-4230-82dc-a7d721cd0a44-image.png\"/></p>",
+      "mark": 1.5,
+      "type": "QUESTION",
+      "serial_number": 63352,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 28,
+          "tag": "Set-2"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 966,
+          "tag": "P-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3227,
+          "tag": "সার্বজনীন গ্যাস ধ্রুবক"
+        }
+      ]
+    },
+    {
+      "pk": 201689,
+      "question": "<p><strong><span style=\"font-size: 18px;\">0.25cm ব্যাসবিশিষ্ট একটি স্টীল ও একটি ব্রাসের তার প্রদত্ত চিত্র অনুযায়ী ভার বহন করছে। উক্ত ভরের জন্য স্টীল ও ব্রাসের তারের সম্প্রসারণ নির্ণয় কর। স্টীল এবং ব্রাসের ইয়ং এর গুণাঙ্ক যথাক্রমে E<sub>s</sub>=200×10<sup>9</sup>N/m<sup>2</sup> এবং E<sub>b</sub>=120×10<sup>9</sup>N/m<sup>2</sup>]  </span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dii\" src=\"https://testmozusercontent.com/ugc/2021-04-29%2F91639de8-c698-4629-9705-87ecae6a4066-image.png\" style=\"width: 191px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<img alt=\"\" src=\"https://testmozusercontent.com/ugc/2021-10-31/fixed-a24da6b56d8d719cfecb775aaa0a5bb2.png\"/>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 66826,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 93,
+          "tag": "RUET"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 951,
+          "tag": "P-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3193,
+          "tag": "ইয়ং এর স্থিতিস্থাপক গুণাঙ্ক"
+        }
+      ]
+    },
+    {
+      "pk": 145858,
+      "question": "<p><strong><span style=\"font-size: 18px;\">সমবেগে চলমান একট গাড়ি ব্রেক কষার পর গাড়িটি সমমন্দনে থামতে শুরু করল।নিম্নেরকোন লেখচিত্রটি গাড়িটির সরণ(s) এর সাথে বেগ(v) এর পরিবর্তন নির্দেশ করে?<br/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p><img alt=\"\" class=\"fr-fic fr-dii\" src=\"https://testmozusercontent.com/ugc/2021-10-31/fixed-f5405cd88ef675aa4e082a0aefec5f49.png\" style=\"width: 90px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img alt=\"\" class=\"fr-fic fr-dii\" src=\"https://testmozusercontent.com/ugc/2021-10-31/fixed-c21acbb947028c292022b4c20ac9f63a.png\" style=\"width: 80px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img alt=\"\" class=\"fr-fic fr-dii\" src=\"https://testmozusercontent.com/ugc/2021-10-31/fixed-634e744fde685ac3640698b8123f213d.png\" style=\"width: 90px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img alt=\"\" class=\"fr-fic fr-dii\" src=\"https://testmozusercontent.com/ugc/2021-10-31/fixed-5d7acd7cd97961a602f4ccaf83b69c8d.png\" style=\"width: 89px;\"/></p>"
+        }
+      ],
+      "explanation": "<img alt=\"\" src=\"https://testmozusercontent.com/ugc/2021-10-31/fixed-8e0dfe55ac64b183bdb9bc977f20c51b.png\" style=\"width: 500px;\"/>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 73549,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 145859,
+      "question": "<p><strong><span style=\"font-size: 18px;\">একটি পাথরকে একটি উঁচু জায়গা থেকে নিচে ফেলে দেওয়া হলো।নিম্মের কোন লেখচিত্রটি এর গতিকে প্রকাশ করে?<br/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/e2152fa8-068b-42bf-b0b7-7f5b3f1d8735-image.png\" style=\"width: 96px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/4a9f3869-c5d6-40a3-9324-1e5f56e0afc6-image.png\" style=\"width: 105px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/9041cdd8-e4f1-462f-add3-553c8de2b2cc-image.png\" style=\"width: 96px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/ddca8660-befd-47a9-bbdd-f2cf82004b61-image.png\" style=\"width: 92px;\"/></p>"
+        }
+      ],
+      "explanation": "<p>পড়ন্ত বস্তুর দ্বিতীয় সূত্রানুসারে, v∝t</p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 73550,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 157417,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"color: rgb(0, 0, 0);\">নিচের কোনটির ক্ষেত্রে ∇.v = 0 সত্য ? </span></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-11/946cc6c6-59af-4993-aa60-aaf4c6f5eda3-image.png\" style=\"width: 104px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-11/60b49eea-49b9-4fd4-afc4-4c923b606386-image.png\" style=\"width: 104px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-11/7cebace2-1e59-4e5d-944f-ec0c3ed805a3-image.png\" style=\"width: 111px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>সবগুলোই সত্য </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-11/b2b51b40-77cf-49ec-8d3f-305e7fb370e9-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 74662,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 46,
+          "tag": "Unit-H"
+        },
+        {
+          "type": "shift",
+          "value": 28,
+          "tag": "Set-2"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 910,
+          "tag": "P-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3596,
+          "tag": "ভেক্টর ক্যালকুলাস"
+        }
+      ]
+    },
+    {
+      "pk": 184921,
+      "question": "<p><strong><span style=\"font-size: 18px;\">4Kg ভরের একটি বস্তুর উপর চিত্রানুযায়ী 3√2N ও 4√2N মানের বল ক্রিয়াশীল। বস্তুটির ত্বরণ সর্বাংশে +x অক্ষ বরাবর 1.0 ms<sup>-2</sup> হতে হলে কত বল উপাংশ (F<sub>x</sub>, F<sub>y</sub>) N অনুযায়ী প্রয়োগ করতে হবে?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-11/73e7eb89-bd26-4640-8108-286a51465896-image.png\" style=\"width: 345px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>(4,7)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(3,7)</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>(3,-7)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(7,4)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(4,7)</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-11/be324efd-0b44-4d24-8e83-b7c7859ed76a-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 76447,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 76,
+          "tag": "SUST"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 53,
+          "tag": "Unit-B"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 2985,
+          "tag": "বলের ধারণা, প্রকারভেদ ও নিউটনের গতিসূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 192750,
+      "question": "<p><strong><span style=\"font-size: 18px;\">একটি কণা 2 m ব্যাসার্ধের বৃত্তাকার পথে  প্রতি মিনিটে ৬০ বার ঘুরে,কণাটির রৈখিক বেগ কত হবে?</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p class=\"mathy\">12.56ms^-1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">120ms^-1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">2ms^-1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">60ms^-1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-16/d5bd5ea0-5207-4bd3-945b-757601e286e3-image.png\"/></p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 86935,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 82,
+          "tag": "SAU"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 2988,
+          "tag": "কৌণিক এবং কেন্দ্রমুখী বলের ধারণা"
+        }
+      ]
+    },
+    {
+      "pk": 195452,
+      "question": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-07-09%2F4687dc78-1f67-4d6b-b0b4-c2770e4afcfd-IMG20210709153141.jpg\" style=\"width: 246px;\"/></p><p><strong><span style=\"font-size: 18px;\">উপরের চিত্রে চলচ্চিত্রের একজন স্ট্যান্টম্যান একটি উঁচু ভবনের ছাদে অনুভূমিকভাবে দৌড়িয়ে পার্শ্ববর্তী একটি অপেক্ষাকৃত কম উঁচু ভবনের ছাদে লাফ দেবে। এই কাজটি করার পূর্বে সে বুদ্ধিমানের মত তােমাকে প্রশ্ন করলাে যে, এটি করা তার পক্ষে সম্ভব হবে কি না। ছাদে তার দৌড়ের সর্বোচ্চ গতিবেগ 4.5m/s হলে সে এটা করতে পারবে কি? সেক্ষেত্রে তােমার উপদেশ কী হবে? \"ঝাপ দাও”! অথবা '‘ঝাপ দিও না”!</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<img alt=\"\" src=\"https://testmozusercontent.com/ugc/2021-10-31/fixed-33508d5d6ce6d18cfb082264722a43c0.png\"/>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 87144,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3242,
+          "tag": "প্রাস সংক্রান্ত"
+        }
+      ]
+    },
+    {
+      "pk": 145510,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিচের কোনটি সরণ বনাম সময় লেখচিত্রটি সমবেগে চলমান বস্তুর গতি ব্যক্ত করে?</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-18/44cb99a7-c5a0-4e7a-8bee-24c82395029c-image.png\" style=\"width: 78px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-18/eff147d3-0fdf-404a-9305-fe2a3f3eef9c-image.png\" style=\"width: 74px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-18/b125f32e-b063-42c3-930d-ae817b4bb157-image.png\" style=\"width: 102px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-18/de995c32-0bb5-4bc4-b4e6-fa7722ca0a27-image.png\" style=\"width: 82px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-18/a7dc437c-0498-4a79-9106-1a06cc593e81-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 93113,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 147571,
+      "question": "<p><strong><span style=\"font-size: 18px;\">v=u+at সমীকরনটি নিচের কোন লিখচিত্র দ্বারা প্রকাশ করা যায়?</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-29/7cf28fdf-fda0-4203-b394-32612dde0ba3-image.png\" style=\"width: 80px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-29/8975a456-ee35-4a70-9b49-eb50401c875a-image.png\" style=\"width: 80px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-29/c01b7cfb-4739-4cea-89d1-8807de2727a3-image.png\" style=\"width: 75px;\"/><br/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-29/ee006c6a-17f2-4296-9450-d7a5c1caf120-image.png\" style=\"width: 81px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-29/16a6aaa7-d8e9-4474-9c96-852e3b3c3a56-image.png\" style=\"width: 92px;\"/><br/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-29/2feddec6-f7a5-48e3-9413-020aeca27a44-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 93308,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 53,
+          "tag": "CU"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 177236,
+      "question": "<p><strong><span style=\"font-size: 18px;\">চিত্রটি একটি সরল দোলকের লেখ, এখন X অক্ষ বরাবর L হলে Y অক্ষ বরাবর হবে- </span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-14/03864519-d910-44de-b2ae-c85afbc74984-image.png\" style=\"width: 213px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "√T"
+        },
+        {
+          "answer": false,
+          "option": "√L"
+        },
+        {
+          "answer": false,
+          "option": "L<sup>2</sup>"
+        },
+        {
+          "answer": true,
+          "option": "T<sup>2</sup>​​​​"
+        }
+      ],
+      "explanation": "",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 94318,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 61,
+          "tag": "BSMRSTU"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 950,
+          "tag": "P-1.8"
+        },
+        {
+          "type": "topic",
+          "value": 3034,
+          "tag": "সরল দোলক গতি"
+        }
+      ]
+    },
+    {
+      "pk": 184774,
+      "question": "<p><strong><span style=\"font-size: 18px;\">লেখচিত্রে একটি স্প্রিং এ প্রযুক্ত বলের সাথে দৈর্ঘ্য বৃদ্ধির পরিবর্রন দেখানো হয়েছে। স্প্রিংটির দৈর্ঘ্য বৃদ্ধি 2.0cm হলে স্প্রিং এ সঞ্চিত শক্তির পরিমাণ কত J?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img src=\"https://testmozusercontent.com/ugc/2023-12-12/6ab86428-b968-432d-b2b6-fa88e31e1ca5-image.png\" class=\"fr-fic fr-fil fr-dib\"></span></strong><br></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>0.03</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>0.05</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1.50</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2.00</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2.50</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-11/1468d185-7e1b-4fba-9076-a309a0543b49-image.png\"/></p><p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-11/df620cb1-fe39-4fbd-bb61-be8c76d15e7e-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 94981,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 76,
+          "tag": "SUST"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 53,
+          "tag": "Unit-B"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 951,
+          "tag": "P-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3551,
+          "tag": "স্থিতিস্থাপক শক্তি ও স্প্রিং"
+        }
+      ]
+    },
+    {
+      "pk": 195376,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-10-30/6f63e59d-d30b-4b09-b318-6d96ddd5fc7c-image.png\" style=\"width: 301px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-31/74b691e6-30a1-4b43-82c8-ea8d522f0758-image.png\"/></p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 95454,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 2985,
+          "tag": "বলের ধারণা, প্রকারভেদ ও নিউটনের গতিসূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 198187,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-07/d099bd4c-1033-42b7-b7d8-b85359372cd4-image.png\" style=\"width: 303px;\"/>The following figure shows how a scale with a capacity of only 250 N can be used to weight a a heavier person. The board is 3m long, has a mass of 3.4kg, and is of uniform density. It is free to pivot about the end (P) farthest form the scale. What is the weight of a person standing 1.2m form the pivot end, if the scale reads 210N ? Assume that the board remains nearly horizantal . </span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>483.35 N </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>520.65N</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>566.64 N </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>529.25 N </p>"
+        }
+      ],
+      "explanation": "<p>Ans: A</p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 95706,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 2985,
+          "tag": "বলের ধারণা, প্রকারভেদ ও নিউটনের গতিসূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 145309,
+      "question": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-20/16b73125-d25a-4cec-a718-77ed8874de74-image.png\" style=\"width: 221px;\"/></p><p><span style=\"font-size: 18px;\"><strong>সমান ভর বিশিষ্ট তিনটি খণ্ড A, B, C দড়ির দ্বারা চিত্রে প্রদর্শিত রূপে সংযুক্ত। খণ্ড C, F̄ বল দ্বারা টানা হলে সম্পূর্ণ ব্যবস্থাটি ত্বরিত হয়। ঘর্ষণ উপেক্ষা করলে খণ্ড B এর উপর মােট বল হলাে-</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>F̄/3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>F̄/2</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>2F̄/3</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-20/01123b86-b0ae-4c7d-ab3d-696c112d89c6-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 100292,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 949,
+          "tag": "P-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 2985,
+          "tag": "বলের ধারণা, প্রকারভেদ ও নিউটনের গতিসূত্র"
+        }
+      ]
+    },
+    {
+      "pk": 151839,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"color: rgb(0, 0, 0);\">প্রদত্ত লেখচিত্র হতে গতি সম্পর্কে কি ধারনা পাওয়া যায়?</span></span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-06-12/d792d4b1-87ef-4e45-906a-2e344a7260b6-image.png\" style=\"width: 221px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>সমত্বরণ </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>সমবেগ </p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>স্থির অবস্থা </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>অসম ত্বরণ </p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1.5,
+      "type": "QUESTION",
+      "serial_number": 100798,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 152879,
+      "question": "<p><strong><span style=\"font-size: 18px;\">প্রদত্ত লেখচিত্র হতে গতি সম্পর্কে কি ধারণা পাওয়া যায়?</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-15/83e7999b-ba8c-40c9-8593-3443dd7a6fa4-image.png\" style=\"width: 263px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>সমত্বরণ</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>সমবেগ</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>স্থির অবস্থা</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>অসম ত্বরণ</p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1.5,
+      "type": "QUESTION",
+      "serial_number": 100903,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 28,
+          "tag": "Set-2"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 198096,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Two children are swinging from a 12 ft jungle gym that weights 50 Ibs as shown in the figure given below. The child at C weights 70 Ibs and the child at D weights 60 Ibs. Calculate the reactions for the pin at A and the roller at B.[In the figure , c.g. refers to center of gravity.]</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/b08c8fb3-8322-44c8-8b8e-7851e1426a18-image.png\" style=\"width: 211px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>78 Ibs 120 Ibs</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>78 Ibs and 112</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>68 Ibs and 112 Ibs</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>68 Ibs and 102 Ibs</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-19/1c6340d6-e043-4067-9c1e-b962f651ef53-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 102410,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3001,
+          "tag": "নিউটনের গতিসূত্র ও প্রসঙ্গ কাঠামো"
+        }
+      ]
+    },
+    {
+      "pk": 145144,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-22/ce1de5f0-6ea9-47bf-b4ac-16816297d413-image.png\" style=\"width: 221px;\"/>চিত্রে দেখানো পথ দিয়ে একটি 4.0N ওজনের পাথরকে পৃথিবীর অভিকর্ষীয় ক্ষেত্র P বিন্দু থেকে R বিন্দুতে স্থানান্তরিত করা হলো।পাথরটির স্থিতিশক্তি কত বৃদ্ধি পেল?<br/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>120j</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>200j</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>280j</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1200j</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-22/3da6dd77-46ea-499d-abff-18e12d1e940f-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 106716,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 150,
+          "tag": "2013"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 905,
+          "tag": "P-1.5"
+        },
+        {
+          "type": "topic",
+          "value": 2999,
+          "tag": "শক্তি"
+        }
+      ]
+    },
+    {
+      "pk": 184647,
+      "question": "<p><strong><span style=\"font-size: 18px;\">পাশের সরণ-সময় লেখচিত্রে কোথায় বল প্রয়োগ করা হয়েছে?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-11/d5c9d683-7da5-4c7f-a335-d5be0e98fcbc-image.png\" style=\"width: 220px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>t<sub>0</sub> &lt; t<sub>1</sub> &lt; t<sub>2</sub></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>t<sub>1</sub> &lt; t &lt; t<sub>2</sub></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>t<sub>2</sub> &lt; t &lt; t<sub>3</sub></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>t<sub>0</sub> &lt; t &lt; t<sub>1</sub> এবং t<sub>2</sub> &lt; t &lt; t<sub>3</sub></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>t<sub>1</sub> এবং t<sub>2</sub></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-11/459ef6b7-963e-4079-b72f-ce426ba187c6-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 107731,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 76,
+          "tag": "SUST"
+        },
+        {
+          "type": "year",
+          "value": 150,
+          "tag": "2013"
+        },
+        {
+          "type": "unit",
+          "value": 53,
+          "tag": "Unit-B"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 144980,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\"><strong>নিচের লেখচিত্রে 50s সময়কালে একটি গাড়ির বেগের পরিবর্তন দেখানাে হয়েছে। এই সময়কালে গাড়িটি কত দূরত্ব অতিক্রম করবে?</strong></span></span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\"><strong><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-27/6c30951f-afe5-4781-89ef-dab554e885c8-image.png\" style=\"width: 223px;\"/></strong></span><br/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>500m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>400m</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>350m</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>300m</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-27/947d92fe-7f4d-42e3-9e83-ea190925759e-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 112895,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 149,
+          "tag": "2012"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 119,
+          "tag": "P-1"
+        },
+        {
+          "type": "chapter",
+          "value": 917,
+          "tag": "P-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3079,
+          "tag": "গ্রাফ বিষয়ক"
+        }
+      ]
+    }
+  ]
+}

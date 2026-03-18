@@ -1,0 +1,2596 @@
+{
+  "subject": "M-1",
+  "count": 37,
+  "questions": [
+    {
+      "pk": 459242,
+      "question": "<p><strong><span style=\"font-size: 18px;\">কোন 2 × 2 ম্যাট্রিক্স  <span class=\"mathy\">[a_(ij)]</span>  এর ক্ষেত্রে<img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2024-09-13/6d7cc944-5af4-47e8-a134-e247e0becb0a-Screenshot-20240913-152549.jpg\" style=\"width: 98px;\"/>   </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>  <span class=\"mathy\">[(1,0),(0,1)]</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">[(0,1),(0,0)]</span> </p>"
+        },
+        {
+          "answer": true,
+          "option": "<p> <span class=\"mathy\">[(0,1),(1,0)]</span></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">[(1,0),(1,1)]</span> </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2024-09-13/09d7b989-b1bc-40de-8d58-930be7c0016b-image.png\"/></p>",
+      "mark": 1.25,
+      "type": "QUESTION",
+      "serial_number": 32724,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 169,
+          "tag": "2023"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3475,
+          "tag": "ম্যাট্রিক্স ও ম্যাট্রিক্সের প্রকারভেদ"
+        }
+      ]
+    },
+    {
+      "pk": 198781,
+      "question": "<p><strong><span style=\"font-size: 18px;\">What is the area of the shaded region of the following figure?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/959cdddf-b87c-4222-a796-2e03be701405-image.png\" style=\"width: 291px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>39 sq. unit</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>13 sq. unit</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>78 sq. unit</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None of these</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/5d77bf95-fd10-4c49-a7fe-4f9065f5f49d-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 41152,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1064,
+          "tag": "M-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3382,
+          "tag": "নির্দিষ্ট যোগজ ব্যবহার করে ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 314116,
+      "question": "<p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-14/9142c64e-2d00-4c2e-a8d3-42efd46bb5d6-CamScanner-03-14-2022-13.49.jpg\" style=\"width: 282px;\"/>উপরোক্ত রেখাটির সমীকরণ কোনটি?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>x-y+1=0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2x+y+2=0</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>y-2x-2=0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x+y-2=0</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-03-14/52722d27-06b4-462b-98a1-102f8a46ef69-CamScanner-03-14-2022-13.49-2.jpg\" style=\"width: 342px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 44360,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 111,
+          "tag": "BUP"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 84,
+          "tag": "FST"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3413,
+          "tag": "দুই বিন্দুগামী সরলরেখার সমীকরন"
+        }
+      ]
+    },
+    {
+      "pk": 195941,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>   </strong></span><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2020-06-11%2F476b94c7-3087-4380-b6ab-e84d7b8551e0-Apars-PhysicsFirstPaper652.jpg\" style=\"width: 134px;\"/>সরলরেখার ক্ষেত্রে </strong></span><strong>a<sup>-1</sup> + b<strong><sup>-1</sup></strong> =? </strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>b/a</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>none</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-04-09%2F253e0ea2-e203-44e8-a5f0-9654ef32add5-image.png\" style=\"width: 422px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47476,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3540,
+          "tag": "দুইটি অসমান্তরাল রেখার ছেদবিন্দু নির্ণয়"
+        }
+      ]
+    },
+    {
+      "pk": 195943,
+      "question": "<p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2020-06-11%2Fc14f7cd7-61d1-4092-ad4c-7623be4a6f5f-New1123.jpg\" style=\"width: 160px;\"/></strong></span></p><p><span style=\"font-size: 18px;\"><strong>△PAB =?  (PAB ত্রিভুজের ক্ষেত্রফল কত?)</strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<div class=\"mathy\">c/(2ab)×dsqrt(a²+b²)</div>"
+        },
+        {
+          "answer": false,
+          "option": "<div class=\"mathy\">(2c)/(dab)×dsqrt(a²+b²)</div>"
+        },
+        {
+          "answer": false,
+          "option": "<div class=\"mathy\">(cd)/(2ab)×dsqrt(a²+b²)</div>"
+        },
+        {
+          "answer": false,
+          "option": "<div class=\"mathy\">(1/2)×dsqrt(a²+b²)</div>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-04-09%2Ffac49c85-cbba-474f-a75f-eef28bfb01d5-image.png\" style=\"width: 461px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47478,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3362,
+          "tag": "ক্ষেত্রফল সংক্রান্ত"
+        }
+      ]
+    },
+    {
+      "pk": 198665,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Following figure shows the graph of y=f(x),  x€ℝ. The graph consists of two line segments that meet at the point P. The graph cut the y-axis at the point Q and the x-axis at the points (-3,0) and R. Find the coordinates of the point Q and R.</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/82893897-de64-4b13-b705-4ccfc1509a01-image.png\" style=\"width: 270px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>Q(1,0), R(1,1)</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>Q(0,1), R(1,0)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Q(1,1), R(1,0)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Q(1,1), R(1,1)</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-07/5f184664-17e9-447c-9e0a-4702641e06d2-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47543,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3427,
+          "tag": "দুটি বিন্দুর মধ্যবর্তী দূরত্ব"
+        }
+      ]
+    },
+    {
+      "pk": 309782,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-13/56a20f62-9d60-4601-8ca3-0034953bea45-image.png\" style=\"width: 199px;\"/>চিত্রে abed একটি চতুর্ভূজ যেখানে ab || ed and <span class=\"mathy\">anglebad=100,</span> <span class=\"mathy\">angleabc=?  </span> </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>80°</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>100°</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>75°</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>135°</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-04/e7d1faf8-3d12-4aeb-bf21-e5fe317d893b-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 49990,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 46,
+          "tag": "Unit-H"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1068,
+          "tag": "M-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3367,
+          "tag": "সহগুনিতক কোনের ত্রিকোণমিতিক অনুপাত"
+        }
+      ]
+    },
+    {
+      "pk": 311903,
+      "question": "<p><strong><span style=\"font-size: 18px;\">ab ও cd রেখা দুইটির ছেদ বিন্দু O এবং ∠δ=3∠V হলে ∠V এর মান কত ডিগ্রী হবে ?</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-04/26e156d9-f377-4ff7-9283-2e654674b167-image.png\" style=\"width: 214px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>40<sup>0</sup></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>45<sup>0</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>50<sup>0</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>55<sup>0</sup></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-04/5df0cc82-090d-49c3-8a5a-c47189ab4065-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 50099,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 46,
+          "tag": "Unit-H"
+        },
+        {
+          "type": "shift",
+          "value": 29,
+          "tag": "Set-3"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3434,
+          "tag": "দুইটি রেখার মধ্যবর্তী কোণ বিষয়ক"
+        }
+      ]
+    },
+    {
+      "pk": 311904,
+      "question": "<p><strong><span style=\"font-size: 18px;\">চিত্রে ABCD একটি রম্বস যার কর্ণদ্বয় O বিন্দুতে ছেদ করে। যদি ∠OAB=50<sup>0</sup> ও ∠ABO=x<sup>0</sup> হয় তবে x এর মান কত ডিগ্রী হবে ?<img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-04/0081a47d-f973-4bff-9a28-7ee08a06a0ee-image.png\" style=\"width: 171px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>50</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>40</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>35</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>75</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-04/3254e912-201c-4a61-8164-823690ef3d4c-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 50100,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 46,
+          "tag": "Unit-H"
+        },
+        {
+          "type": "shift",
+          "value": 29,
+          "tag": "Set-3"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1068,
+          "tag": "M-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3546,
+          "tag": "ত্রিভুজের sin ও cosine সুত্রের ব্যবহার"
+        }
+      ]
+    },
+    {
+      "pk": 177470,
+      "question": "<p><strong><span style=\"font-size: 18px;\">বৃত্তের ব্যাসার্ধ r হলে চিহ্নিত অংশের ক্ষেত্রফল কত? <img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-13/b37a200d-f50b-47bf-b10f-673361fbd3b6-image.png\" style=\"width: 151px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>πr<sup>2</sup>/2</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>πr<sup>2</sup>/4</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>πr<sup>2</sup>/6</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-13/123e1705-ee29-4bc6-b471-28f3f6008259-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 52488,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 61,
+          "tag": "BSMRSTU"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1066,
+          "tag": "M-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3533,
+          "tag": "ক্ষেত্রফল সংক্রান্ত"
+        }
+      ]
+    },
+    {
+      "pk": 177870,
+      "question": "<p><strong><span style=\"font-size: 18px;\">বৃত্তের ব্যাসার্ধ r হলে চিহ্নিত অংশের ক্ষেত্রফল কত? <img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-13/b37a200d-f50b-47bf-b10f-673361fbd3b6-image.png\" style=\"width: 151px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>πr<sup>2</sup>/2</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>πr<sup>2</sup>/4</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>πr<sup>2</sup>/6</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-13/123e1705-ee29-4bc6-b471-28f3f6008259-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 52568,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 61,
+          "tag": "BSMRSTU"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1066,
+          "tag": "M-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3533,
+          "tag": "ক্ষেত্রফল সংক্রান্ত"
+        }
+      ]
+    },
+    {
+      "pk": 198606,
+      "question": "<p><strong><span style=\"font-size: 18px;\">The isosceles right triangle has a side AC of length 5 cm and PQ shows the arc of a circle centered at A. Find the area of the shaded region given below.</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-05/41e52a2e-7805-4747-a200-bb27a9235e99-image.png\" style=\"width: 141px;\"/></span></strong></strong></p><p><strong><strong><strong><span style=\"font-size: 18px;\"><br/></span></strong></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>1.2547 cm²</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2.4142 cm²</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1.8174 cm²</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>2.6825 cm²</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-05/0eb936be-0083-473e-93d3-683a6a5a2155-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 54161,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1068,
+          "tag": "M-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3723,
+          "tag": "বৃত্তের ব্যাসার্ধ, চাপ ও বৃত্তকলার ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 201999,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-09/d29838a4-7cb0-4871-b75a-11eb16169705-image.png\" style=\"width: 431px;\"/>P-V লেখে কৃতকাজ কত?</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><br/></p><p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-09/d6e56ee6-de0f-4ecf-8fa9-865615a090fb-image.png\"/></p>",
+      "mark": 5,
+      "type": "QUESTION",
+      "serial_number": 54291,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 95,
+          "tag": "MIST"
+        },
+        {
+          "type": "year",
+          "value": 129,
+          "tag": "2019"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1064,
+          "tag": "M-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3382,
+          "tag": "নির্দিষ্ট যোগজ ব্যবহার করে ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 198487,
+      "question": "<p><strong><span style=\"font-size: 18px;\">In ΔABC, a= 2b and ∠A=3θ , what is the value of θ ?</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/9d37618b-8eab-46c5-9e2a-fb0f7c88140d-image.png\" style=\"width: 252px;\"/></span></strong></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>60<sup>o</sup></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>30<sup>o</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>150<sup>o</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>90<sup>o</sup></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/c21c6258-9a65-4c35-9a3f-ac70b770b0d9-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66687,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1068,
+          "tag": "M-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3367,
+          "tag": "সহগুনিতক কোনের ত্রিকোণমিতিক অনুপাত"
+        }
+      ]
+    },
+    {
+      "pk": 198490,
+      "question": "<p><strong><span style=\"font-size: 18px;\">If y=3x-4 is a tangent and touches the circle at P(2,2). Q is the center of the circle then slope of diameter directed towards P is-</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/74d70585-a462-49fa-abf4-8b4fcf4daf4b-image.png\" style=\"width: 175px;\"/></span></strong></strong><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>-1/3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>3/4</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-3</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/daee4686-b152-4887-b87b-e9b700376125-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66690,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3461,
+          "tag": "y=mx+c সমীকরন"
+        }
+      ]
+    },
+    {
+      "pk": 198507,
+      "question": "<p><strong><span style=\"font-size: 18px;\">The following figure shows a right circular cylinder metal rod which is expanding as it is heated. After t seconds the radius of the rod is x cm and the length of the rod is 5x cm. The cross-sectional area of the rod is increasing at the constant rate of 0.032 cm²s-¹. Find dx/dt when the radius of the rod is 2 cm.</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/801ddb02-ce32-4de7-a11c-eb26941cb05c-image.png\" style=\"width: 207px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>0.002546</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>0.003546</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>0.022546</p>"
+        },
+        {
+          "answer": false,
+          "option": "Choice 4"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-02-17/fb10d6f8-9b1d-4018-8994-1d1d38d320b7-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 66707,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1061,
+          "tag": "M-1.9"
+        },
+        {
+          "type": "topic",
+          "value": 3451,
+          "tag": "অন্তরকের সাহায্যে বাস্তব সমস্যা সমাধান"
+        }
+      ]
+    },
+    {
+      "pk": 315067,
+      "question": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/6419a0d3-b597-4850-bdc2-fee3d40d3d42-image.png\"/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>1/2</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1/4</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/0fd05ed9-65c6-4c12-8165-0d88d51f0c59-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 71236,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 113,
+          "tag": "DU.7Clg"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 85,
+          "tag": "Science"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1061,
+          "tag": "M-1.9"
+        },
+        {
+          "type": "topic",
+          "value": 3344,
+          "tag": "লিমিট হিসেবে অন্তরজ"
+        }
+      ]
+    },
+    {
+      "pk": 198401,
+      "question": "<p><img src=\"https://testmozusercontent.com//ugc/2024-03-12/56d12ca9-ceb6-4029-bcb5-236afde7138c-image.png\" class=\"fr-fic fr-fil fr-dib\"></p><p><strong><span style=\"font-size: 18px;\">What is the perimeter of  <span class=\"mathy\">DeltaABC?</span> </span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><br/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>48</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">48+2sqrt2</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">70+6sqrt3</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p> <span class=\"mathy\">48+12 sqrt3</span> </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/365edce6-9c4a-43d9-bab1-81f947faf9fb-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77146,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3553,
+          "tag": "ভরকেন্দ্র , পরিকেন্দ্র , লম্বকেন্দ্র ও অন্তঃকেন্দ্র নির্ণয়"
+        }
+      ]
+    },
+    {
+      "pk": 198409,
+      "question": "<p><strong><span style=\"font-size: 18px;\">In the following circle what is the length of RS?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/78f305bc-88d5-4005-93e8-29c0aa40bfcf-image.png\" style=\"width: 111px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>8</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>20</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>8π</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>20π</p>"
+        }
+      ],
+      "explanation": "<p>Ans: C</p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77154,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1068,
+          "tag": "M-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3723,
+          "tag": "বৃত্তের ব্যাসার্ধ, চাপ ও বৃত্তকলার ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 198411,
+      "question": "<p><strong><span style=\"font-size: 18px;\">In the following circle the area is Kπ what is the value of K?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/3677ea38-8c6f-4883-8ff3-c098eeb58a5f-image.png\" style=\"width: 138px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>6</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>9</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>18</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/69bc62dc-7523-45cd-9ac4-28bdf778bb0c-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77156,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1064,
+          "tag": "M-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3382,
+          "tag": "নির্দিষ্ট যোগজ ব্যবহার করে ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 198415,
+      "question": "<p><strong><span style=\"font-size: 18px;\">A circular garden is bounded by East avenue and diagonal road as shown in the figure given below.</span></strong></p><p><strong><strong><span style=\"font-size: 18px;\">Diagonal road intersects North Street at C and East avenue at D.Diagonal Road is tangential to the circular garden at B find the equation of the diagonal road.</span></strong></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/e29d862a-c6d7-48d5-89ab-dfc310c57fad-image.png\" style=\"width: 164px;\"/></span></strong></strong><br/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>3x - 4y + 18=0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x - 3y + 18 = 0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>7x - 10y + 18 = 0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>10x - 7y + 18 = 0</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>blank</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/aa113075-352b-463c-ab79-26ef03af7c5c-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77160,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1059,
+          "tag": "M-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 3392,
+          "tag": "ছেদক আকার, লম্ব আকার ও দূরত্ব আকার সমীকরণ"
+        }
+      ]
+    },
+    {
+      "pk": 198420,
+      "question": "<p><strong><span style=\"font-size: 18px;\">The figure given below shows triangle AOC inscribed in the region cut from the parabola y = x² by the line y=a² find the limit of the ratio if the area of the triangle to the area of the parabolic region as approaches zero.</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/33a2d2ce-c0a0-4410-a8cb-c7c4dac73d49-image.png\" style=\"width: 213px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>3/4</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>4/5</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>5/6</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>6/7</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/754602a3-13db-4541-9050-3fdf97b2329a-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77165,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1064,
+          "tag": "M-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3382,
+          "tag": "নির্দিষ্ট যোগজ ব্যবহার করে ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 198427,
+      "question": "<p><strong><span style=\"font-size: 18px;\">In the following figure, M and N are the midpoints of two of the sides of square ABCD what is the area of the shaded region?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/b067897c-2cd2-46cd-9be4-5438e184da37-image.png\" style=\"width: 98px;\"/></span></strong><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>1.5</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1.75</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>3.0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>2√2</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/27c491b9-d716-4976-8a3c-906dfe9386b3-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 77172,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1068,
+          "tag": "M-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 3723,
+          "tag": "বৃত্তের ব্যাসার্ধ, চাপ ও বৃত্তকলার ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 200193,
+      "question": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-08-22/d7a4be8d-f4e6-4b0c-bc97-f71f80da6ce4-IMG-20210822-155132.jpg\" style=\"width: 249px;\"/></p><p><span style=\"font-size: 18px;\"><strong>এর মান কত?</strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>4xyz</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1/2xyz</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1/7xyz</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>11xyz</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>13xyz</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-08-22/c36a7bab-822c-48cf-b4e7-38c3a3c52bd1-image.png\"/></p>",
+      "mark": 6,
+      "type": "QUESTION",
+      "serial_number": 77247,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 91,
+          "tag": "KUET"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3345,
+          "tag": "নির্ণায়ক ও নির্ণায়কের ধর্মাবলি"
+        }
+      ]
+    },
+    {
+      "pk": 313739,
+      "question": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-05-13%2Fa754c0d9-de6e-45c8-a842-042964fe76cf-IMG20210513125821.jpg\" style=\"width: 227px;\"/></p><p><span style=\"font-size: 18px;\"><strong>OT=2 হলে, S<sub>2</sub> বৃত্তটির সমীকরণ কী হবে?</strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>x<sup>2</sup>+y<sup>2</sup>-8x-6y+16=0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x<sup>2</sup>+y<sup>2</sup>=9</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x<sup>2</sup>+y<sup>2</sup>-8x-5y+16=0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>x<sup>2</sup>+y<sup>2</sup>=0</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-05-13%2F821edd7b-b368-43ba-9a03-1cb0cc098974-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 81621,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 111,
+          "tag": "BUP"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 84,
+          "tag": "FST"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1066,
+          "tag": "M-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3466,
+          "tag": "দুইটি বৃত্ত পরস্পর স্পর্শ ও ছেদ করার শর্ত"
+        }
+      ]
+    },
+    {
+      "pk": 314925,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-14/1b58132c-f176-485d-96fd-e81967697b53-image.png\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>-1,-3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1,3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-1,3</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>1,-3</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-14/6b9b095a-543d-40ba-8fc5-c07fa1b1c1aa-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 81807,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 113,
+          "tag": "DU.7Clg"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 85,
+          "tag": "Science"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3411,
+          "tag": "ব্যতিক্রম ও অব্যতিক্রমি ম্যাট্রিক্স"
+        }
+      ]
+    },
+    {
+      "pk": 314932,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-14/3f2c92c0-9a2f-4809-bbb6-9ed886f89d44-image.png\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">e/2</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>1/2</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>1/3</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-14/fdfe66b2-6cae-428b-9fd4-8d9d9f8b60cf-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 81814,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 113,
+          "tag": "DU.7Clg"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 85,
+          "tag": "Science"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1061,
+          "tag": "M-1.9"
+        },
+        {
+          "type": "topic",
+          "value": 3344,
+          "tag": "লিমিট হিসেবে অন্তরজ"
+        }
+      ]
+    },
+    {
+      "pk": 182795,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-04-04/082cd7c3-3d2b-469b-a2e5-144d5662631f-image.png\" style=\"width: 129px;\"/></span></strong></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>1</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>0</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">1/sqrt3</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">3/sqrt2</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-04-04/ad1a4dd1-0775-4b98-9827-48d5c98c268e-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 94844,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 73,
+          "tag": "PSTU"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1061,
+          "tag": "M-1.9"
+        },
+        {
+          "type": "topic",
+          "value": 3344,
+          "tag": "লিমিট হিসেবে অন্তরজ"
+        }
+      ]
+    },
+    {
+      "pk": 199999,
+      "question": "<p><strong><span style=\"font-size: 18px;\">যদি f:R<sup>+</sup>→R<sup>+</sup> দ্বারা</span></strong></p><p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-09%2F9d6effcd-a12d-4cc7-a897-185bb403724f-IMG20210609173946.jpg\" style=\"width: 263px;\"/></strong></span></p><p><strong><span style=\"font-size: 18px;\">সূচিত হলে f(-3) এর মান কত? </span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>-3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-4</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-5</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>6</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>7</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-11%2Ff61ca4ee-c205-4df1-9cfa-720500b3e42c-image.png\" style=\"width: 500px;\"/></p>",
+      "mark": 6,
+      "type": "QUESTION",
+      "serial_number": 95845,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 91,
+          "tag": "KUET"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1095,
+          "tag": "M-1.8"
+        },
+        {
+          "type": "topic",
+          "value": 3404,
+          "tag": "এক-এক ফাংশন ও সার্বিক ফাংশন"
+        }
+      ]
+    },
+    {
+      "pk": 201638,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>মান নির্ণয় কর।</strong></span></p><p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-18%2F3701ec16-842e-4505-b7a3-9b0a224fc910-IMG20210619025329.jpg\" style=\"width: 278px;\"/></strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-19%2F9509f108-e417-46be-ba41-107b01c3a3ba-image.png\" style=\"width: 500px;\"/></p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 95898,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 93,
+          "tag": "RUET"
+        },
+        {
+          "type": "year",
+          "value": 125,
+          "tag": "2015"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3345,
+          "tag": "নির্ণায়ক ও নির্ণায়কের ধর্মাবলি"
+        }
+      ]
+    },
+    {
+      "pk": 198139,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Find the area of the region enclosed by  <span class=\"mathy\">y=sqrt(2-x)</span> and y = -x as shown in the figure given below ?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/7ae7d5c8-4e3e-4315-bef4-2c2f62908230-image.png\" style=\"width: 296px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><span class=\"mathy\">22/3</span></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><span class=\"mathy\">10/3</span></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><span class=\"mathy\">9/2</span></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None of these</p>"
+        }
+      ],
+      "explanation": "<p>Ans: B</p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 102453,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1064,
+          "tag": "M-1.10"
+        },
+        {
+          "type": "topic",
+          "value": 3382,
+          "tag": "নির্দিষ্ট যোগজ ব্যবহার করে ক্ষেত্রফল"
+        }
+      ]
+    },
+    {
+      "pk": 198148,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Find a unit vector normal to the plane ABC as shown in the figure given below. Note that a vector normal to the plane will be perpendicular to any two of AB,  AC and BC vectors. </span></strong></p><p><strong><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/57e650cc-c77e-4872-ae77-c0e2acdbdae1-image.png\" style=\"width: 257px;\"/></span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">1/sqrt6(hati+2hatj+hatk)</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p class=\"mathy\">1/sqrt3(hati+hatj+hatk)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">1/sqrt2(hati+hatk)</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p class=\"mathy\">1/sqrt2(hati+hatj)</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-18/aa3c0cef-0ab8-451a-b102-e75047081394-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 102462,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1094,
+          "tag": "M-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3385,
+          "tag": "লম্ব সম্পর্কিত"
+        }
+      ]
+    },
+    {
+      "pk": 313530,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/860037fb-c895-4054-9871-331e4c45a719-image.png\"/></span></strong></p><p><strong><span style=\"font-size: 18px;\">নির্ণায়কের মান - </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>-4xyz </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-3xy<sup>2</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>3xy<sup>2</sup></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>4xyz </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/ee102667-bbac-41a9-bce2-1946e590e98c-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 105551,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 111,
+          "tag": "BUP"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 84,
+          "tag": "FST"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3345,
+          "tag": "নির্ণায়ক ও নির্ণায়কের ধর্মাবলি"
+        }
+      ]
+    },
+    {
+      "pk": 313545,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/f49bec5b-6551-42a7-a6af-7c171d6d1c87-image.png\"/></span></strong></p><p><strong><span style=\"font-size: 18px;\">এর সমাধান- </span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>a,b </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(a-b)<sup>2</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-a,b </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>(a-b)<sup>3</sup></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/070b54b7-4991-4bcb-ae42-856654aaa174-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 105566,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 111,
+          "tag": "BUP"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 84,
+          "tag": "FST"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3345,
+          "tag": "নির্ণায়ক ও নির্ণায়কের ধর্মাবলি"
+        }
+      ]
+    },
+    {
+      "pk": 313546,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/a745eb04-04e3-441b-816b-be5ccddc07f0-image.png\"/></span></strong></p><p><strong><span style=\"font-size: 18px;\">হলে x এর মান কত হবে ? </span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>4</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>-16/3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>17</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None of these </p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-15/f1aa8bac-04af-4b19-8a22-a152f7752f24-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 105567,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 111,
+          "tag": "BUP"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 84,
+          "tag": "FST"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3345,
+          "tag": "নির্ণায়ক ও নির্ণায়কের ধর্মাবলি"
+        }
+      ]
+    },
+    {
+      "pk": 197688,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-07/2c3a112a-9ecd-4fc1-9683-17e149c7e616-image.png\" style=\"width: 252px;\"/>x এর কোন মানের জন্য পাশের নির্ণায়কের মান শূন্য হবে?<br/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p> <span class=\"mathy\">-9,±sqrt3</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">-9,sqrt3</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p> <span class=\"mathy\">9,sqrt3</span> </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None of these</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-07/7fc20605-f873-4af7-adb1-42bdb78308cf-image.png\"/></p>",
+      "mark": 5,
+      "type": "QUESTION",
+      "serial_number": 108489,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 87,
+          "tag": "CUET"
+        },
+        {
+          "type": "year",
+          "value": 150,
+          "tag": "2013"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1063,
+          "tag": "M-1.1"
+        },
+        {
+          "type": "topic",
+          "value": 3345,
+          "tag": "নির্ণায়ক ও নির্ণায়কের ধর্মাবলি"
+        }
+      ]
+    },
+    {
+      "pk": 198041,
+      "question": "<p><strong><span style=\"font-size: 18px;\">Let g be a function whose derivative g<sup>'</sup> and is shown in the graph below.  For what value of x,  the value of g is minimum ?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-23/97206378-67d1-408a-b037-9d395769b7c0-image.png\" style=\"width: 162px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>2</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>3</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>4</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>5</p>"
+        }
+      ],
+      "explanation": "<p>Minimum value - 2</p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 108611,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 88,
+          "tag": "IUT"
+        },
+        {
+          "type": "year",
+          "value": 150,
+          "tag": "2013"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 129,
+          "tag": "M-1"
+        },
+        {
+          "type": "chapter",
+          "value": 1061,
+          "tag": "M-1.9"
+        },
+        {
+          "type": "topic",
+          "value": 3390,
+          "tag": "সর্বোচ্চ ও সম্পর্কিত মান বিদ্যমান থাকার প্রয়োজনীয় শর্ত"
+        }
+      ]
+    }
+  ]
+}

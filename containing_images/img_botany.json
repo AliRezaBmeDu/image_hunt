@@ -1,0 +1,356 @@
+{
+  "subject": "B-1",
+  "count": 5,
+  "questions": [
+    {
+      "pk": 306385,
+      "question": "<p><strong><span style=\"font-size: 18px;\">পুস্প সংকেতে ব‍্যবহৃত <img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-13/e0171e53-91af-4fb7-8eaa-b5c41a1cdb6f-image.png\" style=\"width: 39px;\"/>চিহ্নটি কি ধরনের পুস্পকে নির্দেশ করে?</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>একপ্রতিসম</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>বহুপ্রতিসম</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>সমসংযোগ</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>অসমসংযোগ</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-13/72e9ccbc-260b-4e72-8734-2e7f512ab45e-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 49733,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 45,
+          "tag": "Unit-D"
+        },
+        {
+          "type": "shift",
+          "value": 28,
+          "tag": "Set-2"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 122,
+          "tag": "B-1"
+        },
+        {
+          "type": "chapter",
+          "value": 926,
+          "tag": "B-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 2956,
+          "tag": "আবৃতবীজী উদ্ভিদ বা অ্যানজিওস্পার্ম"
+        }
+      ]
+    },
+    {
+      "pk": 306443,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-09-19/70c54f62-234f-46a2-b14a-bba2606bf0fa-3.png\"/>সজ্জাকে কর্তনকারী এনজাইম কোনটি?</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>Bam HI</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Hind III</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Mbo I</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>Eco RI</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-02/db480823-5dcc-4808-8601-44e5355c14c4-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 49791,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 45,
+          "tag": "Unit-D"
+        },
+        {
+          "type": "shift",
+          "value": 30,
+          "tag": "Set-4"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 122,
+          "tag": "B-1"
+        },
+        {
+          "type": "chapter",
+          "value": 970,
+          "tag": "B-1.11"
+        },
+        {
+          "type": "topic",
+          "value": 3270,
+          "tag": "জেনেটিক ইঞ্জিনিয়ারিং ও রিকম্বিনেন্ট ডিএনএ প্রযুক্তি"
+        }
+      ]
+    },
+    {
+      "pk": 306583,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-09-19/a8def05c-ac22-4e17-a7e6-b3dd7463ac2d-2.png\"/>সজ্জাকে কর্তনকারী এনজাইম কোনটি?</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>Hind III</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Mbo I</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>Hpa II</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Eco RI</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-02/10b2ec60-7db6-4584-bc6b-3c8207eb5f07-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 49851,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 45,
+          "tag": "Unit-D"
+        },
+        {
+          "type": "shift",
+          "value": 29,
+          "tag": "Set-3"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 122,
+          "tag": "B-1"
+        },
+        {
+          "type": "chapter",
+          "value": 970,
+          "tag": "B-1.11"
+        },
+        {
+          "type": "topic",
+          "value": 3061,
+          "tag": "রিকম্বিনেন্ট DNA টেকনোলজির প্রয়োগ"
+        }
+      ]
+    },
+    {
+      "pk": 307745,
+      "question": "<p><strong><span style=\"font-size: 18px;\">পুস্প সংকেতে <img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-13/70440ba5-b5a6-4294-ae90-33d951fb908e-image.png\" style=\"width: 31px;\"/> চিহ্নটি কী ধরনের ফুলের জন্য ব্যবহৃত হয়?</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>একপ্রতিসম</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>বহুপ্রতিসম</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>অপ্রতিসম</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>কোনেটিই নয়</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-10-01/84c641d1-0e11-421f-84ec-436aa557afb7-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 49913,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 45,
+          "tag": "Unit-D"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 122,
+          "tag": "B-1"
+        },
+        {
+          "type": "chapter",
+          "value": 926,
+          "tag": "B-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 2956,
+          "tag": "আবৃতবীজী উদ্ভিদ বা অ্যানজিওস্পার্ম"
+        }
+      ]
+    },
+    {
+      "pk": 191711,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-14/ed844b85-8d62-4a21-aeb2-16a86698bf5a-image.png\" style=\"width: 152px;\"/>কোন গোত্রের পুষ্প সংকেত? </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><em>Malvaceae</em></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><em>Cruciferae</em></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><em>Liliaceae</em></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><em>Solanaceae</em></p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 101918,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 81,
+          "tag": "CVASU"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 122,
+          "tag": "B-1"
+        },
+        {
+          "type": "chapter",
+          "value": 926,
+          "tag": "B-1.7"
+        },
+        {
+          "type": "topic",
+          "value": 2956,
+          "tag": "আবৃতবীজী উদ্ভিদ বা অ্যানজিওস্পার্ম"
+        }
+      ]
+    }
+  ]
+}

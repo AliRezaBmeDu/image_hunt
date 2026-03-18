@@ -1,0 +1,76 @@
+{
+  "subject": "B-2",
+  "count": 1,
+  "questions": [
+    {
+      "pk": 155960,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিম্নের কোনটি এক প্রতিসম পুষ্পকের জন্য সাংকেতিক চিহ্ন? </span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>+</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-17/c6b6516d-0d9c-47ba-b9f2-fc1807fe2e59-image.png\" style=\"width: 25px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>ɑ </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-17/eb4c09ee-f4af-40a4-a62c-23350945179b-image.png\" style=\"width: 26px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-17/938e4aa8-f045-42f6-95e5-c0071abb6b4f-image.png\"/></p>",
+      "mark": 0.6,
+      "type": "QUESTION",
+      "serial_number": 113774,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 54,
+          "tag": "RU"
+        },
+        {
+          "type": "year",
+          "value": 149,
+          "tag": "2012"
+        },
+        {
+          "type": "unit",
+          "value": 43,
+          "tag": "Unit-G"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 123,
+          "tag": "B-2"
+        },
+        {
+          "type": "chapter",
+          "value": 993,
+          "tag": "B-2.13"
+        },
+        {
+          "type": "topic",
+          "value": 0,
+          "tag": null
+        }
+      ]
+    }
+  ]
+}

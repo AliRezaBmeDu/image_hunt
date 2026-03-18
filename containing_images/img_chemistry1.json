@@ -1,0 +1,912 @@
+{
+  "subject": "C-1",
+  "count": 13,
+  "questions": [
+    {
+      "pk": 325089,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/d5296320-2f24-4ed2-9783-b204cb5bdfde-image.png\" style=\"width: 421px;\"/></span></strong></p><p><strong><strong><span style=\"font-size: 18px;\">বিক্রিয়াটি কোন মৌল শনাক্ত করনে ব্যবহৃত হয়?</span></strong></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>N</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>S</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>N+S</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Na</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/2fae863a-8b91-4ea9-8ba6-5a29d41aa344-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 34997,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 164,
+          "tag": "2022"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 919,
+          "tag": "C-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3220,
+          "tag": "ক্রোমাটোগ্রাফি"
+        }
+      ]
+    },
+    {
+      "pk": 325092,
+      "question": "<p><strong><span style=\"font-size: 18px;\">অম্লীয় বাফার দ্রবণের pH নির্ণয়ের ক্ষেত্রে সমীকরণটি হলো-</span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/37758036-d198-4f95-9d5e-b7430a3fa9ac-image.png\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/2cc4f6e2-1f17-485a-8778-e01379113ed4-image.png\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/fda799b1-13e5-4162-97a6-4c25d379b136-image.png\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/4b07f3c2-15f8-4b66-a8e4-755f2b99985f-image.png\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/5bf6aa84-eb6f-4464-836b-d152d258a828-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 35000,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 164,
+          "tag": "2022"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 27,
+          "tag": "Set-1"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 920,
+          "tag": "C-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3109,
+          "tag": "বাফার দ্রবণ - সমীকরণ, ক্রিয়াকৌশল, pH এর গুরত্ব"
+        }
+      ]
+    },
+    {
+      "pk": 325257,
+      "question": "<p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/c21f6143-d458-4a60-a56a-23cc4828c64a-image.png\" style=\"width: 377px;\"/>;বিক্রিয়ার ক্ষেত্রে কোনটি সঠিক?</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>K<sub>p</sub>=K<sub>c</sub></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>K<sub>p</sub>=K<sub>c</sub>(RT)<sup>-2</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>K<sub>c</sub>=K<sub>p</sub>(RT)<sup>-2</sup></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>K<sub>c</sub>=K<sub>p</sub>(RT)<sup>2</sup></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/aa1ff9b9-060f-412c-8b66-80ad9d2b75aa-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 35165,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 56,
+          "tag": "JU"
+        },
+        {
+          "type": "year",
+          "value": 164,
+          "tag": "2022"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 29,
+          "tag": "Set-3"
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 920,
+          "tag": "C-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3216,
+          "tag": "ভরক্রিয়ার সূত্র, রাসায়নিক সাম্যধ্রবক এবং Kp, Kc নির্ণয়"
+        }
+      ]
+    },
+    {
+      "pk": 326822,
+      "question": "<p><strong><span style=\"font-size: 18px;\">মল্ট ভিনেগার প্রস্তুতিতে নিম্নোক্ত রাসায়নিক বিক্রিয়া সমূহ সংঘটিত হয়। বিক্রিয়ার P, Q, R ও S এর জন্য নিচের কোন ক্রমটি সঠিক? (Which one of the following orders is correct for P, Q, R and S for the reaction during malt- vinegar preparation?)</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/8487ce07-b965-487e-a326-12a485a2cd7a-image.png\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>,C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>,C<sub>2</sub>H<sub>5</sub>OH,CH<sub>3</sub>OH</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>,C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>,C<sub>2</sub>H<sub>5</sub>OH,CH<sub>3</sub>COOH</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>,C<sub>6</sub>H<sub>11</sub>O<sub>5</sub>,C<sub>2</sub>H<sub>5</sub>OH,CH<sub>3</sub>OH</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>C<sub>11</sub>H<sub>22</sub>O<sub>11</sub>, C<sub>6</sub>H<sub>11</sub>O<sub>5</sub>, C<sub>2</sub>H<sub>5</sub>OH, CH<sub>3</sub>OH</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>C<sub>11</sub>H<sub>22</sub>O<sub>11</sub>,C<sub>6</sub>H<sub>10</sub>O<sub>5,</sub>C<sub>2</sub>H<sub>5</sub>OH,CH<sub>3</sub>COOH</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-09-18/fc9cfa1b-46a1-4486-9958-4238047fecc8-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 36730,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 92,
+          "tag": "CKRUET"
+        },
+        {
+          "type": "year",
+          "value": 164,
+          "tag": "2022"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 952,
+          "tag": "C-1.5"
+        },
+        {
+          "type": "topic",
+          "value": 3157,
+          "tag": "ভিনেগার"
+        }
+      ]
+    },
+    {
+      "pk": 195795,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিচের e<sup>-</sup> বিন্যাস এর জন্য কোনটি সত্য?</span></strong></p><p><strong><span style=\"font-size: 18px;\"><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2023-01-12/a07ab91f-f377-46ff-b991-d2cdb5ecb529-image.png\" style=\"width: 310px;\"/></span></strong></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>হুন্ডের নীতি মানে নি </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>আউফবাউ নীতি লঙ্ঘিত হয়েছে </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>পলির বর্জন নীতি লঙ্ঘিত হয়েছে </p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>কোনোটিই  নয়</p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 41013,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 131,
+          "tag": "2021"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 919,
+          "tag": "C-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3009,
+          "tag": "ইলেক্ট্রন বিন্যাস - (আউফবাউ, হুন্ড ও পলির বর্জন নীতি)"
+        }
+      ]
+    },
+    {
+      "pk": 200405,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>নিম্নের নিউক্লিয়ার বিক্রিয়া থেকে S বাহির কর।</strong></span></p><p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-11-13/7e66d446-8e0d-414e-8138-e18980d8cb0e-image.png\" style=\"width: 451px;\"/></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><sup>228</sup><sub>92</sub>AC</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><sup>221</sup><sub>87</sub>Fr</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><sup>232</sup><sub>90</sub>Th</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><sup>220</sup><sub>86</sub>Rn</p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><sup>223</sup><sub>88</sub>Ra</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-11-13/6157563f-4bee-47a8-a0fd-36eae6d9036b-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 47607,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 92,
+          "tag": "CKRUET"
+        },
+        {
+          "type": "year",
+          "value": 130,
+          "tag": "2020"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 919,
+          "tag": "C-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3299,
+          "tag": "তেজস্ক্রিয়তা ও আইসোটোপ"
+        }
+      ]
+    },
+    {
+      "pk": 181681,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>নিচের যৌগগুলোর মধ্যে কোনটির অম্লত্ব সবচেয়ে বেশি?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-02%2F40836fdd-0ae0-47a5-a90f-815f8822e8ac-IMG20210602124418.jpg\" style=\"width: 72px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-02%2F0a6e187f-ab8e-436a-b17e-5cdaf51ea538-IMG20210602124602.jpg\" style=\"width: 74px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-02%2F325efb85-3b55-4793-aa98-2700b48a5a88-IMG20210602124501.jpg\" style=\"width: 88px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-02%2Fd896e0fa-183a-4023-8261-3bcd07cb08eb-IMG20210602124647.jpg\" style=\"width: 70px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-02%2Ff4a8ee55-a690-42a2-b4a2-8284b263ce28-image.png\" style=\"width: 500px;\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 65432,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 71,
+          "tag": "MBSTU"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 53,
+          "tag": "Unit-B"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 920,
+          "tag": "C-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3133,
+          "tag": "অম্ল ও ক্ষার - বিয়োজন ধ্রুবক,তীব্রতা, pH স্কেল, Ka-Kb"
+        }
+      ]
+    },
+    {
+      "pk": 181783,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিচের যৌগগুলোর মধ্যে কোনটির অম্লত্ব সবচেয়ে বেশি? </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-21/1b62f8f3-82be-4357-8482-f08d1debb858-image.png\" style=\"width: 54px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-21/14db2826-ae3f-4ada-bad7-e7a09575b627-image.png\" style=\"width: 77px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-21/0e61c0c9-7224-4c9d-9a0a-76321f5a26cb-image.png\" style=\"width: 78px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-21/0f97a9fb-f9c0-4fb9-b719-d1c225579bf8-image.png\" style=\"width: 71px;\"/></p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-21/4b687da8-4280-4fca-9d78-ed6467722fad-image.png\"/></p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 65534,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 71,
+          "tag": "MBSTU"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 44,
+          "tag": "Unit-C"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 920,
+          "tag": "C-1.4"
+        },
+        {
+          "type": "topic",
+          "value": 3133,
+          "tag": "অম্ল ও ক্ষার - বিয়োজন ধ্রুবক,তীব্রতা, pH স্কেল, Ka-Kb"
+        }
+      ]
+    },
+    {
+      "pk": 195581,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>মল্ট-ভিনেগার প্রস্তুতির বিক্রিয়ার শূন্যস্থানগুলাে পূরণ কর-</strong></span></p><p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-08-28/ea1e4be0-9c41-4498-8b29-9c03ddac195e-IMG-20210828-183810.jpg\" style=\"width: 366px;\"/></strong></span><br/></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-08-30/c0593f6b-b16f-4ee8-953e-ec21b64f50e9-image.png\"/></p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 66567,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 84,
+          "tag": "BUET"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 952,
+          "tag": "C-1.5"
+        },
+        {
+          "type": "topic",
+          "value": 3157,
+          "tag": "ভিনেগার"
+        }
+      ]
+    },
+    {
+      "pk": 196909,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>উদ্দীপকটি লক্ষ্য কর এবং 'a' ও 'b' নং প্রশ্নের উত্তর দাও:</strong></span></p><p><span style=\"font-size: 18px;\"><strong><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-01/e5973db2-1df2-43b4-8486-ee747d3158fd-IMG-20210901-141649.jpg\" style=\"width: 259px;\"/></strong></span><br/></p><p><strong><span style=\"font-size: 18px;\">(a) Z এর ইলেক্ট্রন আসক্তি Y অপেক্ষা অধিক কেন?</span></strong></p><p><span style=\"font-size: 18px;\"><strong>(b) স্বাভাবিক তাপমাত্রায় H<sub>2</sub>W তরল কিন্তু H<sub>2</sub>X গ্যাসীয় কেন?</strong></span></p>",
+      "options": [
+        {
+          "answer": true,
+          "option": "<p>Done</p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>Skip</p>"
+        }
+      ],
+      "explanation": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-09-01/cbacc799-560d-4302-abae-5751bcefc1a8-image.png\"/></p>",
+      "mark": 6,
+      "type": "QUESTION",
+      "serial_number": 66613,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 86,
+          "tag": "BUTEX"
+        },
+        {
+          "type": "year",
+          "value": 128,
+          "tag": "2018"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 924,
+          "tag": "C-1.3"
+        },
+        {
+          "type": "topic",
+          "value": 4279,
+          "tag": "আয়নীকরণ শক্তি, ইলেক্ট্রন আসক্তি ও তড়িৎ ঋনাত্বকতা"
+        }
+      ]
+    },
+    {
+      "pk": 145893,
+      "question": "<p><strong><span style=\"font-size: 18px;\">নিচের কোন বিন্যাসটি পাউলির বর্জন নীতি এবং হুন্ড নীতি সমর্থন করে?</span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/49ae9ae4-95fb-41c2-abf6-aa7a18d50f55-image.png\" style=\"width: 170px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/185d10e5-4e4c-43a0-9014-473ff5d1e441-image.png\" style=\"width: 164px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/98619efc-d7e9-42d3-a6c6-227e0e2c40ca-image.png\" style=\"width: 165px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-11-10/7b41eef1-5dda-49cc-ac67-ff0232f633d9-image.png\" style=\"width: 164px;\"/></p>"
+        }
+      ],
+      "explanation": "<p>A, C: উভয় নীতি লঙ্ঘন করে</p><p>B: পাউলির বর্জন নীতি লঙ্ঘন করে</p>",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 73584,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 52,
+          "tag": "DU"
+        },
+        {
+          "type": "year",
+          "value": 127,
+          "tag": "2017"
+        },
+        {
+          "type": "unit",
+          "value": 41,
+          "tag": "Unit-A"
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 919,
+          "tag": "C-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3009,
+          "tag": "ইলেক্ট্রন বিন্যাস - (আউফবাউ, হুন্ড ও পলির বর্জন নীতি)"
+        }
+      ]
+    },
+    {
+      "pk": 196837,
+      "question": "<p><strong><span style=\"font-size: 18px;\">ক্লোরিন এর 14th electron টির ক্ষেত্রে চারটি কোয়ান্টাম সংখ্যার সঠিক সেট কোনটি? </span></strong></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-26/379ea2f4-4776-4dc5-841b-476d09cc1935-image.png\" style=\"width: 166px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-26/d51bb086-b444-40a8-a4a6-fa106a4dbe6a-image.png\" style=\"width: 165px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-26/dbec6dfb-694a-4b38-bae2-fa24f6f2b3f0-image.png\" style=\"width: 165px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><img class=\"fr-fic fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2022-12-26/fc067ede-0e10-4161-bb73-919136d079a1-image.png\" style=\"width: 164px;\"/></p>"
+        }
+      ],
+      "explanation": "",
+      "mark": 1,
+      "type": "QUESTION",
+      "serial_number": 87227,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 86,
+          "tag": "BUTEX"
+        },
+        {
+          "type": "year",
+          "value": 126,
+          "tag": "2016"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 919,
+          "tag": "C-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3204,
+          "tag": "কোয়ান্টাম সংখ্যা"
+        }
+      ]
+    },
+    {
+      "pk": 197769,
+      "question": "<p><span style=\"font-size: 18px;\"><strong>নিচের নিউক্লিয়াসত্রয় এর মধ্যে কোনগুলি আইসােটনিক?</strong></span></p>",
+      "options": [
+        {
+          "answer": false,
+          "option": "<p><sup>1</sup>H<sub>1 </sub>, <sup>2</sup>H<sub>1</sub> , <sup>3</sup>H<sub>1</sub></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-28%2F1e444b6e-d769-43d2-a72e-f61792db1280-IMG20210629025349.jpg\" style=\"width: 48px;\"/></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p><img class=\"fr-fil fr-dib\" src=\"https://testmozusercontent.com/ugc/2021-06-28%2Fbf030a05-f342-42e7-bbd9-0e6860342bee-IMG20210629025409.jpg\" style=\"width: 51px;\"/></p>"
+        },
+        {
+          "answer": true,
+          "option": "<p><sup>14</sup>C<sub>6</sub> , <sup>15</sup>N<sub>7</sub> , <sup>16</sup>O<sub>8</sub></p>"
+        },
+        {
+          "answer": false,
+          "option": "<p>None of them</p>"
+        }
+      ],
+      "explanation": "<p>নিউট্রন সংখ্যা সমান</p>",
+      "mark": 10,
+      "type": "QUESTION",
+      "serial_number": 102339,
+      "first_tags": [
+        {
+          "type": "database_type",
+          "value": 16,
+          "tag": "Ad.QB"
+        },
+        {
+          "type": "university",
+          "value": 87,
+          "tag": "CUET"
+        },
+        {
+          "type": "year",
+          "value": 151,
+          "tag": "2014"
+        },
+        {
+          "type": "unit",
+          "value": 40,
+          "tag": null
+        },
+        {
+          "type": "shift",
+          "value": 26,
+          "tag": null
+        }
+      ],
+      "second_tags": [
+        {
+          "type": "subject",
+          "value": 121,
+          "tag": "C-1"
+        },
+        {
+          "type": "chapter",
+          "value": 919,
+          "tag": "C-1.2"
+        },
+        {
+          "type": "topic",
+          "value": 3299,
+          "tag": "তেজস্ক্রিয়তা ও আইসোটোপ"
+        }
+      ]
+    }
+  ]
+}
